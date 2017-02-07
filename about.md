@@ -1,11 +1,13 @@
 ---
-layout: page
-title: About
+layout: default
+title: About Enjoy Agile
 permalink: /about/
 ---
+Enjoy Agile est un blog en français destiné aux gens qui s'intéressent de près ou de loin à l'agilité, mais pas que.
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Je rêve d'un monde du travail qui évolue, ou du moins qu'on y réfléchisse ensemble.
 
-You can find the source code for the Jekyll new theme at:
+![](../images/alexthib-agile-coach-small.jpg)
 
-You can find the source code for Jekyll at
+Alexandre Thibault 
+Facilitateur de projets
