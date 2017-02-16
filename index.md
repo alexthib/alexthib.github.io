@@ -28,6 +28,15 @@ Voici tous les épisodes déjà publiés en Février 2017 (5 au total) :
 	... shares tools for introducing change to the team
 </a>
 
+<a href="http://scrum-master-toolbox.org/2017/02/podcast/alexandre-thibault-shares-4-aspects-he-keeps-in-mind-when-assessing-his-own-success/" target="smtp">
+	... shares 4 aspects he keeps in mind when assessing his own success
+</a>
+
+<a href="http://scrum-master-toolbox.org/2017/02/podcast/alexandre-thibault-uses-drawing-and-mapping-to-build-his-own-view-of-the-system/" target="smtp">
+	... uses drawing and mapping to build his own view of the system
+</a>
+
+
 J'ai démarré aussi une communauté sur Slack pour parler des sujets d'agilité, méthode, outils, de product management, du future des technologies, d'éducation, etc. Si ça vous intéresse de vous joindre à nous, me faire signe sur <a href="https://www.linkedin.com/in/alexthib?locale=fr_FR&trk=profile_view_lang_sel_click" 
              target="linkedin">
                LinkedIn</a>.
