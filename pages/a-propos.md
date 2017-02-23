@@ -6,7 +6,7 @@ Enjoy Agile est un blog en français destiné aux gens qui s'intéressent de pr�
 
 Je rêve d'un monde du travail qui évolue, ou du moins qu'on y réfléchisse ensemble.
 
-![](/images/alexthib-agile-coach-small.jpg)
+<img src="/images/alexthib-agile-coach-small.jpg" width="125px" >
 
 Alexandre Thibault 
 Facilitateur de projets
