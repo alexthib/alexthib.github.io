@@ -23,3 +23,15 @@ Alexandre Thibault
       Je lis User Story Mapping de Jeff Patton
    </a>
 </p>
+<p>
+  <a href="https://www.amazon.fr/Impact-Mapping-Software-Products-Projects/dp/0955683645" 
+     target="nowbook2">
+      Je lis Impact Mapping de Gojko Adzic
+   </a>
+</p>
+<p>
+  <a href="https://www.coursera.org/learn/high-performing-teams" 
+     target="mooc">
+      J'assiste à la formation en ligne : Building High-Performing Teams
+   </a>
+</p>
