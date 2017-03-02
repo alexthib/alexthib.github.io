@@ -25,7 +25,13 @@ Alexandre Thibault
      target="linkedin">
        LinkedIn
   </a>
-</p>        
+</p>  
+<p>
+  <a href="https://www.snapchat.com/add/alexandrethib" 
+     target="snapchat">
+       Snapchat
+  </a>
+</p>      
 <p>
   <a href="https://twitter.com/alexandrethib" 
      target="twitter">
