@@ -21,6 +21,12 @@ Alexandre Thibault
    </a>
 </p>
 <p>
+  <a href="https://www.instagram.com/alexthib_enjoyagile/" 
+     target="instagram">
+       Instagram
+   </a>
+</p>
+<p>
   <a href="https://www.linkedin.com/in/alexthib?locale=fr_FR&trk=profile_view_lang_sel_click" 
      target="linkedin">
        LinkedIn
