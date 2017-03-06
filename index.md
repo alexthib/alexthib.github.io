@@ -6,8 +6,7 @@ title: Enjoy Agile - scrum, kanban, bonheur au travail, environnements avec memb
 <ul>
   {% for post in site.posts %}
     {% assign content = post.content %}
-    <br/>
-    <br/>
+
   	{% include post_detail.html %}
   {% endfor %}
 </ul>
