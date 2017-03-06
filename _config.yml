@@ -33,7 +33,7 @@ show_dir_listing: false
 
 ############################### Outputting
 permalink: /:categories/:title/
-paginate: 1
+paginate: 3
 paginate_path: /page:num
 timezone: Europe/Paris
 
