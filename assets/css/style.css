@@ -161,6 +161,10 @@ footer {
 
 	}
 
+	section {
+    	margin-top: 0px;
+	}	
+
 	nav ul, nav:active ul { 
 
 		display: none;
@@ -195,4 +199,5 @@ footer {
 		position: absolute;
 
 	}
+
 }
