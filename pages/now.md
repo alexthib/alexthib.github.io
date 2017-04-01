@@ -18,20 +18,8 @@ Alexandre Thibault
    </a>
 </p>
 <p>
-  <a href="https://www.amazon.fr/User-Story-Mapping-Jeff-Patton/dp/1491904909" 
+  <a href="https://www.amazon.fr/Five-Dysfunctions-Team-Leadership-Fable/dp/0787960756" 
      target="nowbook">
-      Je lis User Story Mapping de Jeff Patton
-   </a>
-</p>
-<p>
-  <a href="https://www.amazon.fr/Impact-Mapping-Software-Products-Projects/dp/0955683645" 
-     target="nowbook2">
-      Je lis Impact Mapping de Gojko Adzic
-   </a>
-</p>
-<p>
-  <a href="https://www.coursera.org/learn/high-performing-teams" 
-     target="mooc">
-      J'assiste à la formation en ligne : Building High-Performing Teams
+      Je lis The 5 dysfunctions of a Team de Patrick Lencioni
    </a>
 </p>
