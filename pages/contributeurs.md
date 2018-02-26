@@ -33,6 +33,12 @@ Alexandre Thibault
   </a>
 </p>  
 <p>
+  <a href="http://openspaceagility.com/consulting/" 
+     target="openspaceagility">
+       Open Space Agility
+  </a>
+</p>  
+<p>
   <a href="https://www.snapchat.com/add/alexandrethib" 
      target="snapchat">
        Snapchat
