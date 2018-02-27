@@ -39,6 +39,12 @@ Alexandre Thibault
   </a>
 </p>  
 <p>
+  <a href="https://www.scrum.org/user/214835" 
+     target="scrumorg">
+       Scrum.org
+  </a>
+</p> 
+<p>
   <a href="https://www.snapchat.com/add/alexandrethib" 
      target="snapchat">
        Snapchat
