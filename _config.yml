@@ -98,8 +98,9 @@ pagination:
 ############################### Build settings
 markdown: kramdown
 #theme: jekyll-theme-minimal
+
 gems:
-  - jekyll-paginate
+  - jekyll-paginate-v2
   - jekyll-feed
 exclude:
   - Gemfile
