@@ -99,7 +99,7 @@ pagination:
 markdown: kramdown
 #theme: jekyll-theme-minimal
 
-gems:
+plugins:
   - jekyll-paginate-v2
   - jekyll-feed
 exclude:
