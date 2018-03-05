@@ -155,6 +155,38 @@ footer .copyright {
 	font-size: 0.9em;
 }
 
+.pagination {
+	text-align: center;
+}
+
+.pagination li {
+	float: initial;
+	padding: 0;
+}
+
+.pagination li a {
+	padding: 10px 15px;
+	border: 1px solid #fe8100;
+}
+
+.fill {
+	height: 20px;
+}
+
+.navigation {
+	padding-top: 20px;
+}
+
+.navigation .next {
+	padding: 10px 0;
+	text-align: right;
+}
+
+.navigation .prev {
+	padding: 10px 0;
+	text-align: left;
+}
+
 /************************** MEDIA QUERY ************************/
 
 @media only screen and (max-width : 640px) {
@@ -166,7 +198,7 @@ footer .copyright {
 	}
 
 	#menu-icon {
-
+		background-color: #fe8100;
 		display:inline-block;
 
 	}
@@ -201,9 +233,16 @@ footer .copyright {
 	}
 
 	footer {
-
 		position: absolute;
+	}
 
+
+	footer p {
+		margin: 0 10px 20px;
+	}
+
+	h1 {
+		text-align: left;
 	}
 
 }

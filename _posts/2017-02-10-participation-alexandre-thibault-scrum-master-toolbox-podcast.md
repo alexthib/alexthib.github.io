@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Participation d'Alexandre Thibault au Scrum Master Toolbox Podcast avec Vasco Duarte"
-categories: alexandrethibault scrum
+categories: alexandrethibault scrum pocast
 ---
 J'ai participé au Podcast de Vasco Duarte qui s'appelle :
 Scrum Master Toolbox Podcast
@@ -12,7 +12,6 @@ Scrum Master Toolbox Podcast
 <a href="/about">
 	<img src="/images/alexthib-agile-coach-small.jpg" width="125px" >
 </a>
-<br/>
 
 C'est un podcast en anglais, si ça vous dit de pratiquer la langue de Shakespeare !
 
