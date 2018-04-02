@@ -18,8 +18,8 @@ Alexandre Thibault
    </a>
 </p>
 <p>
-  <a href="https://www.amazon.fr/Five-Dysfunctions-Team-Leadership-Fable/dp/0787960756" 
+  <a href="https://www.amazon.fr/Fifty-Quick-Ideas-Improve-Stories/dp/0993088104" 
      target="nowbook">
-      Je lis The 5 dysfunctions of a Team de Patrick Lencioni
+      Je lis : Fifty Quick Ideas To Improve Your User Stories
    </a>
 </p>
