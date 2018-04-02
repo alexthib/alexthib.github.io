@@ -24,6 +24,14 @@ body {
 	color: #555;
 }
 
+ul {
+    list-style-type: disc;
+}
+ul, ol {
+    margin: 15px 0;
+    padding-left: 30px;
+}
+
 a {
 
 	color: #fe8100;
@@ -95,13 +103,13 @@ a:hover#menu-icon {
 
 }
 
-ul {
+nav ul {
 
 	list-style: none;
 
 }
 
-li {
+nav ul li {
 
 	display: inline-block;
 	float: left;

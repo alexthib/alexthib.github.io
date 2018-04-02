@@ -30,10 +30,12 @@ Un dernier clin d'oeil qui m'a vraiment fait sourire, c'est le concept de "High-
 Et que font les managers dans un tel contexte ? Il y a des chefs de produits/projets, mais pas vraiment de managers. On préfère, chez Menlo, voir émerger des leaders naturels en fonction d'un problème donné et décrit. Cela permet de ne pas créer ce que j'appelle le phénomène de l'oisillon dans le nid, où on attend après le manger pour tout régler. Un peu comme dans l'<a href="https://www.areyouagile.com/2017/11/dare-to-invite-openspace-agility/" target="OSA">Open Space Agility</a>, on voit apparaître des leaders naturels en fonction des types de problèmes. Pourquoi vouloir mettre toute cette pression sur quelques individus seulement ? On partage les plaisirs et les puzzles de l'organisation ! Reconnaissance, salaire, dire merci à ces nouvelles locomotives, c'est beaucoup plus pérenne que de donner un titre à quelqu'un pour sa carte d'affaires, c'est une de mes croyances. 
 
 On parle aussi de la notion de grandir dans ce modèle hyper collaboratif (scalabilité), le <a href="https://fr.wikipedia.org/wiki/Nombre_de_Dunbar" target="dunbar">nombre de Dunbar</a> est invoqué à nouveau. Que ferai-je à plus de 150 personnes ? Il faut se poser de bonnes questions à ce moment-là :
+
 * Si on grandit et qu'on détruit la qualité en faisant cela, a-t-on vraiment grandi ?
 * Si on grandit et qu'on détruit la morale de nos équipes, l'état d'esprit, et l'énergie, a-t-on vraiment grandi ?
 * Si on grandit et qu'on perd notre marché par un produit ou un service supérieur, a-t-on vraiment grandi ?
 * Si on grandit fortement et qu'on ne peut plus revenir en arrière avec les nouveaux processus et règles implantés, peut-on dire qu'on est capable de grandir ?
+
 
 Comment peut-on faire pour mesurer la joie ?
 Chez Menlo, on parle de la joie des employés et des clients. Ca me fait penser à la <a href="https://www.youtube.com/watch?v=_jv7qhqKg6o" target="diad">Double Interaction du Désir</a> de Jean Mouton. On doit investir sur les deux populations pour arriver à une résilience de l'entreprise dans le temps. Richard Sheridan déclare que c'est très complexe à mesurer, mais si l'utilisation des produits, la qualité sur le long terme, la part de marché, la satisfaction clients, la domination du marché, des histoires positives remontées par les enquêtes des utilisateurs clés, et la faible utilisation du support après-vente, on peut sentir si on est dans la joie !
