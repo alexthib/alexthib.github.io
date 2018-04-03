@@ -5,21 +5,15 @@ title: Now
 <h1>
 Now
 </h1>
-<h2>
-Alexandre Thibault
-</h2>
 <a href="/about">
-	<img src="/images/alexthib-agile-coach-small.jpg" width="125px" >
+	<img src="/images/alexthib-agile-coach-small.jpg" class="img-floating-left" />
 </a>
-<p>
-  <a href="http://www.benextcompany.com" 
-     target="nowwork">
-       Je travaille chez beNext à Paris
-   </a>
-</p>
-<p>
-  <a href="https://www.amazon.fr/Fifty-Quick-Ideas-Improve-Stories/dp/0993088104" 
-     target="nowbook">
-      Je lis : Fifty Quick Ideas To Improve Your User Stories
-   </a>
-</p>
+
+<a href="https://www.linkedin.com/in/alexthib?locale=fr_FR&trk=profile_view_lang_sel_click" 
+ target="linkedin">Alexandre Thibault</a>
+
+<a href="http://www.benextcompany.com" target="nowwork">Je travaille chez beNext à Paris</a>
+
+<a href="https://www.amazon.fr/Fifty-Quick-Ideas-Improve-Stories/dp/0993088104" target="nowbook">Je lis : Fifty Quick Ideas To Improve Your User Stories</a>
+
+<a href="https://les-bucherons-de-courbeach.sporteasy.net/" target="nowsport1">Je fais partie du club de hockey sur glace les bûcherons de Courbevoie</a>
