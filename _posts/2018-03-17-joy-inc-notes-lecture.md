@@ -4,12 +4,9 @@ title:  "Joy, Inc. - La joie est bruyante !"
 categories: bouquin
 ---
 J'ai terminé, début 2018, le livre Joy, Inc. - How We Built a Workplace People Love de <a href="https://twitter.com/menloprez" target="richardsheridan">Richard Sheridan</a>, co-fondateur de <a href="http://www.menloinnovations.com/joyinc/" target="menlo">Menlo Innovations</a>.
-
 <a href="https://www.amazon.fr/Joy-Inc-Built-Workplace-People/dp/1591847125" target="joyincbook">
-	<img src="/images/posts/joy_inc.jpg" width="150px" >
-</a>
-
-A la page 5, j'ai froncé les sourcils, car j'ai lu que ce livre allait permettre aux exécutifs d'apporter la joie dans leur entreprise avec un processus simple et répétable. Celui-ci permettrait de prédire la capacité d'impact des équipes de développement pour les clients ! Etant un croyant du <a href="https://www.sois-net.fr/cessons-les-estimations-par-frederic-leguedois-printemps-agile-2015/" target="noestimateleguedois">#noestimate</a>, je me suis dit "et mince, une autre recette magique à l'américaine" ! J'ai toujours peur de l'industrialisation de la façon de travailler à travers toutes les équipes d'une entreprise.
+	<img src="/images/posts/joy_inc.jpg" width="15%" style="float: left; margin: 4px 10px 0px 0px; border: 1px solid #000000;">
+</a> A la page 5, j'ai froncé les sourcils, car j'ai lu que ce livre allait permettre aux exécutifs d'apporter la joie dans leur entreprise avec un processus simple et répétable. Celui-ci permettrait de prédire la capacité d'impact des équipes de développement pour les clients ! Etant un croyant du <a href="https://www.sois-net.fr/cessons-les-estimations-par-frederic-leguedois-printemps-agile-2015/" target="noestimateleguedois">#noestimate</a>, je me suis dit "et mince, une autre recette magique à l'américaine" ! J'ai toujours peur de l'industrialisation de la façon de travailler à travers toutes les équipes d'une entreprise.
 
 Ne m'arrêtant pas à cela, car le livre m'ayant été recommandé par <a href="http://www.andwhatif.fr/" target="andwhatif">Dragos</a> que je respecte grandement, j'ai pu en retirer pas mal de passages intéressants sur la dynamique de groupe, et création d'un environnement de travail où les gens sont à fond ! 
 
