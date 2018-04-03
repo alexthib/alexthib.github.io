@@ -1,13 +1,13 @@
 ---
 layout: default
 title: Now
+permalink: /now/
 ---
-<h1>
-Now
-</h1>
 <a href="/about">
 	<img src="/images/alexthib-agile-coach-small.jpg" class="img-floating-left" />
 </a>
+
+<h1>Now</h1>
 
 <a href="https://www.linkedin.com/in/alexthib?locale=fr_FR&trk=profile_view_lang_sel_click" 
  target="linkedin">Alexandre Thibault</a>

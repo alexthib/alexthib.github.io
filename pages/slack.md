@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Rejoignez Enjoy Agile sur Slack
+permalink: /slack/
 ---
 On a démarré une communauté sur Slack pour parler des sujets d'agilité, méthode, outils, de product management, du future des technologies, d'éducation, etc. Si ça vous intéresse de vous joindre à nous, me faire signe sur <a href="https://www.linkedin.com/in/alexthib?locale=fr_FR&trk=profile_view_lang_sel_click" target="linkedin">LinkedIn</a> !
 

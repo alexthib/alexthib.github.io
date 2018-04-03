@@ -1,17 +1,19 @@
 ---
 layout: default
 title: A propos d'Enjoy Agile
+permalink: /a-propos/
 ---
-Enjoy Agile est un blog en français destiné aux gens qui s'intéressent de près ou de loin à l'agilité, mais pas que.
-
-Je rêve d'un monde du travail qui évolue, ou du moins qu'on y réfléchisse ensemble.
-
 <a href="/about">
-	<img src="/images/alexthib-agile-coach-small.jpg" width="125px" >
+	<img src="/images/alexthib-agile-coach-small.jpg" class="img-floating-left"/>
 </a>
+Enjoy Agile est un blogue en français destiné aux gens qui s'intéressent de près ou de loin à l'agilité, mais pas que. Je rêve d'un monde du travail qui évolue, ou du moins qu'on y réfléchisse ensemble. 
 
-Alexandre Thibault 
-Facilitateur de projets
+Je m'appelle Alexandre Thibault, facilitateur de projets, coach agile, créateur d'ambiance, connecteur, surfeur de meetups ! On dit que je suis empathique, surtout sur mes patins de hockey sur glace !
+
+<div class="fill"></div>
+<div class="fill"></div>
+
+Pour me suivre ou interagir avec moi sur les réseaux sociaux : 
 
 <a href="https://plus.google.com/+AlexandreThibault" 
  target="googleplus">
