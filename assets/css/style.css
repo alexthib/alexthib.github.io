@@ -52,6 +52,12 @@ img {
 
 }
 
+.img-floating-left {
+	float: left; 
+	margin: 4px 10px 0px 0px; 
+	width: 15%;
+}
+
 div.header-wrapper {
 	height: 76px;
 }
