@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Les Transformers, les maîtres de l'illusion !"
-categories: alexandrethibault management30
+categories: organisation
 ---
 Les Transformers ont bercé mon enfance les samedis matin à Montréal ou chez ma grand-mère dans les Laurentides. Le générique, dans la version québécoise disait : “Les Transformers, les maîtres de l’illusion”. 
 

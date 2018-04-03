@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Participation d'Alexandre Thibault au Scrum Master Toolbox Podcast avec Tim Bourguignon"
-categories: alexandrethibault scrum pocast
+categories: pocast
 ---
 J'ai participé au Podcast de Vasco Duarte et Tim Bourguignon qui s'appelle :
 Scrum Master Toolbox Podcast

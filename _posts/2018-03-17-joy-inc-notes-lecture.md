@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Joy, Inc. - La joie est bruyante !"
-categories: alexandrethibault entreprise organisation joie bonheur
+categories: bouquin
 ---
 J'ai terminé, début 2018, le livre Joy, Inc. - How We Built a Workplace People Love de <a href="https://twitter.com/menloprez" target="richardsheridan">Richard Sheridan</a>, co-fondateur de <a href="http://www.menloinnovations.com/joyinc/" target="menlo">Menlo Innovations</a>.
 
