@@ -35,5 +35,3 @@ La vérité sur ce qui nous motive - Daniel Pink</a>
 Et si vous avez un peu de temps pour regarder cette vidéo d'Isaac, çe peut vous donner une idée de la philosophie du servant leadership :
 
 <iframe width="300" height="180" src="https://www.youtube.com/embed/zOZ_HWfkanE" frameborder="0" allowfullscreen></iframe>
-
-<div class="fill"></div>

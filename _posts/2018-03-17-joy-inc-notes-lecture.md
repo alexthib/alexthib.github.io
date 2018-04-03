@@ -41,4 +41,8 @@ Bien sûr que des difficultés font parties du quotidien de cette boîte, ce son
 
 Joy Inc. est un livre d'environ 250 pages. Il est inspirant pour tout entrepreneur ou directeur qui a envie de réfléchir à l'avenir de ses équipes en prenant des actions petit bout par petit bout, en expérimentant, sans lancer un Big Bang (exemple : Transformation Agile SAFe du jour au lendemain). Et le fameux processus simple et répétable, en fait il est simple pour les personnes qui ont vécu les petits changements fréquents au cours des années, mais essayer de tout refaire comme Menlo avec du copier-coller serait mener sa barque au bord de la chute.
 
-_merci à Souad et Bastien pour la relecture_
+_Merci à Souad et Bastien pour la relecture !_
+
+<a href="https://www.amazon.fr/Joy-Inc-Built-Workplace-People/dp/1591847125" target="joyincbook">
+	Pour se procurer le bouquin...
+</a>
