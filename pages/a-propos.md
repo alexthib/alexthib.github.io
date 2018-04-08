@@ -59,6 +59,11 @@ Je m'appelle Alexandre Thibault, facilitateur de projets, coach agile, créateur
    LinkedIn
 </a>
 
+<a href="https://nownownow.com/p/fk6C" 
+ target="nownownow">
+   Now Now Now (Derek Sivers)
+</a>
+
 <a href="http://openspaceagility.com/consulting/" 
  target="openspaceagility">
    Open Space Agility
@@ -76,4 +81,9 @@ Je m'appelle Alexandre Thibault, facilitateur de projets, coach agile, créateur
 <a href="https://twitter.com/alexandrethib" 
  target="twitter">
    Twitter
+</a>
+
+<a href="http://www.weopenspace.com" 
+ target="wos">
+   We Open Space
 </a>
