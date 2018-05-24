@@ -52,10 +52,52 @@ img {
 
 }
 
-.img-floating-left {
+.img-floating-left-small {
 	float: left; 
-	margin: 4px 10px 0px 0px; 
+	margin: 10px 35px 10px 0px; 
 	width: 15%;
+}
+
+.img-floating-left-mid-size {
+	float: left; 
+	margin: 10px 35px 10px 0px; 
+	width: 25%;
+}
+
+.img-floating-left-large {
+	float: left; 
+	margin: 10px 35px 10px 0px; 
+	width: 50%;
+}
+
+.img-floating-right-small {
+	float: right; 
+	margin: 10px 0px 10px 35px; 
+	width: 15%;
+}
+
+.img-floating-right-mid-size {
+	float: right; 
+	margin: 10px 0px 10px 35px; 
+	width: 30%;
+}
+
+.img-floating-right-large {
+	float: right; 
+	margin: 10px 0px 10px 35px; 
+	width: 50%;
+}
+
+.img-container {
+  float: left;
+  width: 33.33%; /* three containers (use 25% for four, and 50% for two, etc) */
+  padding: 5px; /* if you want space between the images */
+}
+
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
 }
 
 div.header-wrapper {

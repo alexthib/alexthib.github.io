@@ -4,7 +4,7 @@ title:  "Participation d'Alexandre Thibault au Scrum Master Toolbox Podcast avec
 categories: pocast
 ---
 <a href="http://scrum-master-toolbox.com/" target="smtp">
-	<img src="/images/podcast_badge_final_big.png" class="img-floating-left">
+	<img src="/images/podcast_badge_final_big.png" class="img-floating-left-small">
 </a> 
 
 J'ai participé au Podcast de Vasco Duarte qui s'appelle <a href="http://scrum-master-toolbox.com/" target="smtp">Scrum Master Toolbox Podcast</a>.

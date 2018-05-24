@@ -4,7 +4,7 @@ title:  "Joy, Inc. - La joie est bruyante !"
 categories: bouquin
 ---
 <a href="https://www.amazon.fr/Joy-Inc-Built-Workplace-People/dp/1591847125" target="joyincbook">
-	<img src="/images/posts/joy_inc.jpg" class="img-floating-left">
+	<img src="/images/posts/joy_inc.jpg" class="img-floating-left-small">
 </a>
 
 J'ai terminé, début 2018, le livre Joy, Inc. - How We Built a Workplace People Love de <a href="https://twitter.com/menloprez" target="richardsheridan">Richard Sheridan</a>, co-fondateur de <a href="http://www.menloinnovations.com/joyinc/" target="menlo">Menlo Innovations</a>. 
