@@ -148,7 +148,7 @@ J'ai déjà utilisé cet atelier dans des contextes bancaires (avec <a href="htt
 * 40 min - 1er itération arts plastiques
 * 20 min - 1er restitution avec les ambassadeurs, un par équipe
 * 90 min - Pause déjeuner, ça va discuter !
-* 10 min - <a href="http://www.funretrospectives.com/category/energizer/" target="_icebreakersfunretro">Ice Breaker</a> pour réveiller les sens après le repas
+* 10 min - <a href="http://www.funretrospectives.com/category/energizer/" target="_icebreakersfunretro">Energizer</a> pour réveiller les sens après le repas
 * 40 min - 2e itération arts plastiques, on s'inspire des autres
 * 20 min - 2e restitution avec les ambassadeurs
 * 10 min - Pause
@@ -160,9 +160,9 @@ J'ai déjà utilisé cet atelier dans des contextes bancaires (avec <a href="htt
 * 20 min - On fait le décompte, et conclusion du sponsor
 * 05 min - Un tour de table où on donne un mot qui représente comment on s'est senti pendant la journée
 
-A noter que les sessions inspirantes sont là pour donner des idées sur ce qui se fait ailleurs ! Cela peut être dans une autre entité de notre entreprise. Format Retour d'Expérience (REX) ou <a href="https://www.ted.com/talks" target="_tedtalk">TED Talk</a>.
+A noter que les sessions inspirantes sont là pour donner des idées sur ce qui se fait ailleurs ! Cela peut être dans une autre entité de notre entreprise. Format Retour d'Expérience (REX) ou <a href="https://www.ted.com/" target="_tedtalk">TED Talk</a>.
 
-De plus, le vote avec les gommettes, on vote sur les idées des autres équipes, et on peut mettre les trois gommettes sur la même idée si on veut mettre l'accent sur un point important pour nous. S'il y a des négociations lors du vote, ce n'est pas catastrophique, c'est la vraie vie !
+Lors de la phase de vote, les participants doivent coller leurs gommettes sur les idées des autres équipes et peuvent utiliser toutes leurs gommettes pour une même idée. S'il y a des négociations lors du vote, ce n'est pas catastrophique, c'est la vraie vie !
 
 Conclusions sur l'atelier
 -------------------------
