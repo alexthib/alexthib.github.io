@@ -27,7 +27,7 @@ Source : <a href="/assets/pdf/arts-plastiques-pourquoi-faire.pdf" target="_artsp
 
 Dans l'animation d'un groupe, bien qu’ils ne représentent pas un grand segment de la population, il devient intéressant de considérer les <a href="https://fr.wiktionary.org/wiki/kinesth%C3%A9sique" target="_wikikinesthesique">kinesthésiques</a>. Ces participants apprennent en touchant, imitant, essayant. Ils aiment bouger. Ils ont des problèmes d'attention lors d'une longue période. La réunionite, ce n'est pas pour eux. Ce sont ces gens qui préfèrent l'essai-erreur au lieu d’écouter des instructions longues. Ne laissons pas sur le bas côté une partie de la population lorsqu’on fait du "brainstorming", de la co-construction ! 
 
-Voici un article intéressant de Chantal Teasdale sur le sujet : <a href="http://www.portailrh.org/votre_emploi/fiche_lapresse.aspx?f=21617" target="_chantalteasdale">portailrh.org/votre_emploi/fiche_lapresse.aspx?f=21617</a>.
+Voici un article intéressant de Chantal Teasdale sur le sujet : <a href="http://www.portailrh.org/votre_emploi/fiche_lapresse.aspx?f=21617" target="_chantalteasdale">Êtes-vous visuel, auditif ou kinesthésique ?</a>
 
 Matériel qu'on a utilisé
 ------------------------
@@ -123,8 +123,8 @@ Les propositions d'évolutions de l'organisation de <a href="/assets/pdf/previou
   	</a>
   </div>
   <div class="img-container">
-  	<a href="/images/posts/arts-plastiques-feedback.jpg" target="_apfeedback">
-  		<img src="/images/posts/arts-plastiques-feedback.jpg" style="width:100%" />
+  	<a href="/images/posts/arts-plastiques-feedback-2.png" target="_apfeedback">
+  		<img src="/images/posts/arts-plastiques-feedback-2.png" style="width:100%" />
   	</a>
   </div>
 
@@ -133,7 +133,16 @@ Les propositions d'évolutions de l'organisation de <a href="/assets/pdf/previou
 
 Dans la vraie vie
 ----------------- 
-J'ai déjà utilisé cet atelier dans des contextes bancaires (avec <a href="https://www.areyouagile.com/a-propos/" target="_areyouagile">Pablo</a>) et médias. Le sponsor d'une journée d'arts plastiques doit avoir le pouvoir de mettre en oeuvre les actions proposées par les participants. Cela ne veut pas dire que tout sera mis en place, mais il ou elle doit avoir ce pouvoir ! L'invitation doit partir un minimum de deux semaines avant l'événement pour que les gens puissent s'organiser. Voici le déroulé idéal sur une journée (avec les temps approximatifs à ajuster en fonction de votre contexte).
+J'ai déjà utilisé cet atelier dans des contextes bancaires et médias. Avec <a href="https://www.areyouagile.com/a-propos/" target="_areyouagile">Pablo</a>, on s'est inspiré entre autre du jeu <a href="https://management30.com/product/meddlers/" target="_meddlers">Meddlers</a> du management 3.0. Pablo a commencé avec les <a href="/assets/pdf/arts-plastiques-formes.pdf" target="_artsplastiquesformes">formes à imprimer</a> pour démarrer le découpage en mode freestyle ! Puis, j'ai rajouté récemment les bâtons de colle, les feuilles de couleur et les vieux magazines pour avoir encore plus de richesse dans le rendu.
+
+Le sponsor d'une journée d'arts plastiques doit avoir le pouvoir de mettre en oeuvre les actions proposées par les participants. Cela ne veut pas dire que tout sera mis en place, mais il ou elle doit avoir ce pouvoir ! Prévoir d'envoyer l'invitation un minimum de deux semaines en avance pour que les gens puissent s'organiser et mijoter. 
+
+L'événement est en trois parties majeures :
+* Ouverture sponsor et sessions inspirantes (3 speakers extérieurs au groupe idéalement)
+* Brainstorming au format Arts Plastiques en 3 itérations
+* Vote et clotûre de la journée
+
+Voici le déroulé détaillé que je suis habituellement sur une journée, avec les temps approximatifs à ajuster en fonction de votre contexte :
 
 <a href="/images/posts/arts-plastiques-vraie-vie.jpg" target="_apvraievie"><img src="/images/posts/arts-plastiques-vraie-vie.jpg" class="img-floating-right-small" /></a>
 
@@ -141,22 +150,22 @@ J'ai déjà utilisé cet atelier dans des contextes bancaires (avec <a href="htt
 * 30 min - Tour de table pour se présenter, son rôle dans le groupe et émettre les attentes de la journée
 * 15 min - Rappel du sponsor sur le sujet de la journée (eh oui, le sponsor doit être présent)
 * 30 min - 1re session inspiration 
-* 10 min - Pause 
+* _10 min - Pause_ 
 * 30 min - 2e session inspiration
 * 30 min - 3e session inspiration
-* 10 min - Pause
+* _10 min - Pause_
 * 10 min - Formation des équipes pluridisciplinaires (auto-organisée, mais on sépare les potes)
 * 40 min - 1er itération arts plastiques
 * 20 min - 1er restitution avec les ambassadeurs, un par équipe
-* 90 min - Pause déjeuner, ça va discuter !
+* _90 min - Pause déjeuner, ça va discuter !_
 * 10 min - <a href="http://www.funretrospectives.com/category/energizer/" target="_icebreakersfunretro">Energizer</a> pour réveiller les sens après le repas
 * 40 min - 2e itération arts plastiques, on s'inspire des autres
 * 20 min - 2e restitution avec les ambassadeurs
-* 10 min - Pause
+* _10 min - Pause_
 * 40 min - 3e itération arts plastiques
 * 20 min - 3e restitution avec les ambassadeurs
 * 05 min - Explication du système de votes, 3 gommettes par participants
-* 10 min - Pause
+* _10 min - Pause_
 * 10 min - Vote avec les gommettes
 * 20 min - On fait le décompte, et conclusion du sponsor
 * 05 min - Un tour de table où on donne un mot qui représente comment on s'est senti pendant la journée
@@ -172,10 +181,4 @@ Conclusions sur l'atelier
 * Il peut servir dans les phases de design thinking et de modélisation en général
 * Il permet une compréhension collective des solutions retenues et mises en place par la conversation
 * Il apporte un aspect de team building et sociabilisation entre personnes qui ne sont pas toujours ensemble au quotidien 
-
-Autres inspirations pour créer l'atelier
-----------------------------------------
-* Meddlers du management 3.0 : <a href="https://management30.com/product/meddlers/" target="_meddlers">management 3.0</a> 
-* Mon collègue Pablo Pernot : <a href="https://www.areyouagile.com/a-propos/" target="_areyouagile">areyouagile.com</a>
-
 
