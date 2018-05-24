@@ -10,13 +10,12 @@ Le 22 mai 2018, <a href="https://www.linkedin.com/in/bastienn/" target="_bnaude"
 
 Sur 60 minutes, nous avons fait deux itérations de quinze minutes et restitutions en groupe. Cet exercice collectif a été utilisé chez plusieurs clients déjà, c’est donc concret, et on peut repartir avec sous le bras pour l’appliquer dans son contexte.
 <br/>  
-<br/>  
 
 Le but, le sens de cet atelier
 ------------------------------
-Une image vaut mille mots ! 
 
 <a href="/images/posts/usm-patton.png" target="_usmimage"><img src="/images/posts/usm-patton.png" class="img-floating-right-large" /></a>
+Une image vaut mille mots ! 
 
 Les coachs agiles proposent en général l’utilisation d'artefacts visuels lors des différents ateliers collaboratifs, et ce n’est pas pour rien ! On met en place des éléments de Kanban et Scrum au mur, on utilise un tableau véléda ou un "flip chart" lors des rituels, on affiche des indicateurs faciles à comprendre sur le plateau projet, on ne lésine pas sur les post-its, etc. La compréhension collective d’un concept ou d’un système est plus intéressante lorsqu’elle est visible et modulable dans l'endroit où on collabore. On le comprend en voyant la planche qu’on retrouve dans le bouquin <a href="https://www.amazon.fr/User-Story-Mapping-Jeff-Patton/dp/1491904909" target="_usmpatton">user story mapping</a> de Jeff Patton.
 
@@ -55,7 +54,7 @@ Matériel qu'on a utilisé
 Agenda de l’atelier
 -------------------
 * Présentation de l’atelier, le sens, le pourquoi
-* Formation des équipes et présentation du sujet, prise en main du matériel
+* Formation des équipes et présentation du <a href="/assets/pdf/previous-magik.pdf" target="_previousmagik">sujet</a>, prise en main du <a href="/assets/pdf/arts-plastiques-formes.pdf" target="_artsplastiquesformes">matériel</a>
 * 1er itération d'environ 15 minutes
 * 1er tour de table pour présenter les idées
 * 2e itération, on va au bout des idées, on s'inspire des autres, on prend un autre aspect, au choix !
