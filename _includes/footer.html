@@ -10,16 +10,20 @@
                Slack
           </a>
           &nbsp;|&nbsp;
-          <a href="https://www.facebook.com/enjoyagile" target="fb">
+          <a href="https://www.facebook.com/enjoyagile" target="_fb">
                Facebook
           </a>
+          &nbsp;|&nbsp;
+          <a href="http://enjoyagile.com/feed.xml" target="_rss">
+               rss
+          </a>          
         </p>  
   	    <p class="copyright">
         	Copyright 2018 Enjoy Agile
         </p>
     </footer>
 
- 	{% if jekyll.environment == 'production' %}
+ 	  {% if jekyll.environment == 'production' %}
     	{% include analytics.html %}
     {% endif %}
 
