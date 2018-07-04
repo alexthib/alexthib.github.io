@@ -34,24 +34,9 @@ Je m'appelle Alexandre Thibault, facilitateur de projets, coach agile, créateur
 
 **Pour interagir avec moi sur les réseaux sociaux** 
 
-<a href="https://www.facebook.com/enjoyagile/" 
- target="facebook">
-   Facebook
-</a>
-
-<a href="https://plus.google.com/106061667624491196468" 
- target="googleplus">
-   Google+
-</a>
-
 <a href="https://www.happymelly.com/profile/alexandre.thibault/" 
  target="hm">
    Happy Melly
-</a>
-
-<a href="https://www.instagram.com/alexthib_enjoyagile/" 
- target="instagram">
-   Instagram
 </a>
 
 <a href="https://www.linkedin.com/in/alexthib?locale=fr_FR&trk=profile_view_lang_sel_click" 
