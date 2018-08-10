@@ -4,7 +4,7 @@ title: Now
 permalink: /now/
 ---
 <a href="/about">
-	<img src="/images/alexthib-agile-coach-small.jpg" class="img-floating-left" />
+	<img src="/images/alexthib-I-am-an-agile-coach-squared.jpg" class="img-floating-left" />
 </a>
 
 <h1>Now</h1>

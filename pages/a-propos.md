@@ -4,7 +4,7 @@ title: A propos d'Enjoy Agile
 permalink: /a-propos/
 ---
 <a href="/about">
-	<img src="/images/alexthib-agile-coach-small.jpg" class="img-floating-left"/>
+	<img src="/images/alexthib-I-am-an-agile-coach-squared.jpg" class="img-floating-left"/>
 </a>
 **Enjoy Agile** est un blogue en français destiné aux gens qui s'intéressent de près ou de loin à l'agilité, mais pas que. Je rêve d'un monde du travail qui évolue, ou du moins qu'on y réfléchisse ensemble. 
 
@@ -33,11 +33,6 @@ Je m'appelle Alexandre Thibault, facilitateur de projets, coach agile, créateur
   * Forum ouvert, rétrospectives
 
 **Pour interagir avec moi sur les réseaux sociaux** 
-
-<a href="https://www.happymelly.com/profile/alexandre.thibault/" 
- target="hm">
-   Happy Melly
-</a>
 
 <a href="https://www.linkedin.com/in/alexthib?locale=fr_FR&trk=profile_view_lang_sel_click" 
  target="linkedin">
