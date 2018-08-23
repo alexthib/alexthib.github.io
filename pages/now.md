@@ -14,7 +14,9 @@ permalink: /now/
 
 <a href="http://www.benextcompany.com" target="nowwork">Je travaille chez beNext à Paris</a>
 
-<a href="https://www.amazon.fr/Scrum-Trenches-2nd-Henrik-Kniberg/dp/1329224272" target="nowbook">Je lis : Scrum and Xp from the Trenches 2nd Edition</a>
+<a href="https://www.amazon.fr/Host-Mark-McKergow/dp/0954974980" target="nowbook">Host (Mark McKergow, Helen Bailey</a>
+
+<a href="https://www.amazon.fr/Dakar-Paris-VOYAGE-PETITES-FOULEES/dp/2702144934" target="nowbook2">De Dakar à Paris: UN VOYAGE A PETITES FOULEES (Pierre Cherruau)</a>
 
 <a href="https://les-bucherons-de-courbeach.sporteasy.net/" target="nowsport1">Je fais partie du club de hockey sur glace les bûcherons de Courbevoie</a>
 
