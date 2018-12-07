@@ -8,6 +8,8 @@ categories: speaker
 
 Le 22 mai 2018, <a href="https://www.linkedin.com/in/bastienn/" target="_bnaude">Bastien Naudé</a> et moi avons présenté un atelier qui utilise les arts plastiques à l'<a href="http://www.agileparis.org/agile-paris-by-night-2018-22-mai-2018/" target="_apbn2018">Agile Paris by Night</a>. Il s'agit d’un atelier où différents acteurs de l’entreprise font du dessin, du découpage et du collage avec des formes variées. Une liberté totale est laissée aux participants: ils disposent du matériel comme bon leur semble et le résultat peut prendre n'importe quelle forme. Le but est de proposer de nouvelles idées pour l’organisation, nouveaux processus, nouveaux moyens de communication. 
 
+<!--more-->
+
 Sur 60 minutes, nous avons fait deux itérations de quinze minutes et restitutions en groupe. Cet exercice collectif a été utilisé chez plusieurs clients déjà, c’est donc concret, et on peut repartir avec sous le bras pour l’appliquer dans son contexte.
 <br/>  
 
