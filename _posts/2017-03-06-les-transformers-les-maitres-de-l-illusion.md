@@ -3,11 +3,18 @@ layout: post
 title:  "Les Transformers, les maîtres de l'illusion !"
 categories: organisation
 ---
+
+<div class="floating-left">
+	<iframe width="300" height="180" src="https://www.youtube.com/embed/6NLm3azcCeI" frameborder="0" allowfullscreen></iframe>
+</div>
+
 Les Transformers ont bercé mon enfance les samedis matin à Montréal ou chez ma grand-mère dans les Laurentides. Le générique, dans la version québécoise disait : “Les Transformers, les maîtres de l’illusion”. 
 
-<iframe width="300" height="180" src="https://www.youtube.com/embed/6NLm3azcCeI" frameborder="0" allowfullscreen></iframe>
+Ça m’a fait penser aux transformations agiles dans les grands groupes, souvent qui passent par des centres de coachs, des cellules d’experts agiles. 
 
-Ça m’a fait penser aux transformations agiles dans les grands groupes, souvent qui passent par des centres de coachs, des cellules d’experts agiles. Vous savez ces budgets mis en place pour aider les départements informatiques à être plus performants, à livrer plus vite et moins cher. Je trouve que c’est une illusion si les hauts dirigeant(e)s ne pensent pas qu’il faut qu’ils s’y mettent eux ou elles aussi.
+<!--more-->
+
+Vous savez ces budgets mis en place pour aider les départements informatiques à être plus performants, à livrer plus vite et moins cher. Je trouve que c’est une illusion si les hauts dirigeant(e)s ne pensent pas qu’il faut qu’ils s’y mettent eux ou elles aussi.
 
 <img src="/images/posts/viva-la-revolution.jpg" class="img-floating-left-small" />
 

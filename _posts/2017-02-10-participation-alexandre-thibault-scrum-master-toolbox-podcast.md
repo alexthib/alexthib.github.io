@@ -11,6 +11,8 @@ J'ai participé au Podcast de Vasco Duarte qui s'appelle <a href="http://scrum-m
 
 C'est un podcast en anglais, si ça vous dit de pratiquer la langue de Shakespeare ! 
 
+<!--more-->
+
 Voici tous les épisodes déjà publiés en Février 2017 (5 au total) :
 
 <a href="http://scrum-master-toolbox.org/2017/02/podcast/alexandre-thibault-on-the-failure-to-have-the-right-support-for-agile-adoption/" target="smtp1">

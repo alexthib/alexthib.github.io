@@ -11,6 +11,8 @@ J'ai participé au Podcast de Vasco Duarte et Tim Bourguignon qui s'appelle : <a
 
 C'est un podcast en français cette fois, et en un seul épisode un peu plus long ! 
 
+<!--more-->
+
 Synopsis de Tim :
 _Avez-vous déjà repéré des situations qui, lorsqu’elles apparaissent, vous donnent immédiatement l’impression que quelque chose de néfaste couve? Une sorte d’anti-pattern dans vos équipes? Dans cet épisode, Alexandre Thibault vient nous montrer quelques cicatrices, et nous conter son expérience passée à coacher des équipes agiles._
 

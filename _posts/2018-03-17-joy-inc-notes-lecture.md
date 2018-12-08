@@ -11,6 +11,8 @@ J'ai terminé, début 2018, le livre Joy, Inc. - How We Built a Workplace People
 
 A la page 5, j'ai froncé les sourcils, car j'ai lu que ce livre allait permettre aux exécutifs d'apporter la joie dans leur entreprise avec un processus simple et répétable. Celui-ci permettrait de prédire la capacité d'impact des équipes de développement pour les clients ! Etant un croyant du <a href="https://www.sois-net.fr/cessons-les-estimations-par-frederic-leguedois-printemps-agile-2015/" target="noestimateleguedois">#noestimate</a>, je me suis dit "et mince, une autre recette magique à l'américaine" ! J'ai toujours peur de l'industrialisation de la façon de travailler à travers toutes les équipes d'une entreprise.
 
+<!--more-->
+
 Ne m'arrêtant pas à cela, car le livre m'ayant été recommandé par <a href="http://www.andwhatif.fr/" target="andwhatif">Dragos</a> que je respecte grandement, j'ai pu en retirer pas mal de passages intéressants sur la dynamique de groupe, et création d'un environnement de travail où les gens sont à fond ! 
 
 Par exemple, viser la gloire, les gains financiers ou essayer d'être dans les livres d'histoire comme <a href="https://fr.wikipedia.org/wiki/Samuel_Pierpont_Langley" target="langley">Samuel Pierpont Langley</a> n'est pas aussi efficace et intéressant que de chercher le bonheur comme les <a href="https://fr.wikipedia.org/wiki/Orville_et_Wilbur_Wright" target="wright">frères Wright</a>. Leur victoire vient de leur idéal, le sens, le pourquoi ils se levaient le matin ! Encore un exemple intéressant où il est bien de chercher à avoir de l'impact plutôt que de chercher un gain chiffré (gestion d'un produit plus que gestion d'un projet).
