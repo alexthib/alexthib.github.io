@@ -10,7 +10,7 @@ permalink: /now/
 <h1>Now</h1>
 
 <a href="https://www.linkedin.com/in/alexthib?locale=fr_FR&trk=profile_view_lang_sel_click" 
- target="linkedin">Alexandre Thibault</a>
+ target="linkedin">Alexandre Thibault - Mon LinkedIn</a>
 
 <a href="http://www.benextcompany.com" target="nowwork">Je travaille chez beNext à Paris</a>
 
@@ -20,6 +20,6 @@ permalink: /now/
 
 <h2>Je lis</h2>
 
-<a href="https://www.amazon.fr/Host-Mark-McKergow/dp/0954974980" target="nowbook">Host (Mark McKergow, Helen Bailey)</a>
+<a href="https://www.amazon.fr/Writing-Power-Techniques-Mastering-1998-07-09/dp/B01HC9SVPW/" target="nowbook">Writing With Power: Techniques for Mastering the Writing Process (Peter Elbow)</a>
 
-<a href="https://www.amazon.fr/Dakar-Paris-VOYAGE-PETITES-FOULEES/dp/2702144934" target="nowbook2">De Dakar à Paris: UN VOYAGE A PETITES FOULEES (Pierre Cherruau)</a>
+<a href="https://www.amazon.fr/ville-qui-tue-femmes-Enquête/dp/2012357679/" target="nowbook2">La ville qui tue les femmes : Enquête à Ciudad Juarez (Marc Fernandez, Jean-Christophe Rampal)</a>
