@@ -52,6 +52,11 @@ img {
 
 }
 
+.floating-left {
+	float: left; 
+	margin: 10px 35px 10px 0px; 
+}
+
 .img-floating-left-small {
 	float: left; 
 	margin: 10px 35px 10px 0px; 
@@ -227,6 +232,7 @@ footer .copyright {
 
 .fill {
 	height: 20px;
+	clear: both;
 }
 
 .navigation {
