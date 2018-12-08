@@ -49,6 +49,16 @@ Je m'appelle Alexandre Thibault, facilitateur de projets, coach agile, créateur
    Open Space Agility
 </a>
 
+<a href="http://bcert.me/shfvgrlo"
+  target="CSM-alexthib-po">
+    Scrum Alliance - Certified ProductOwner
+</a>
+
+<a href="http://bcert.me/sifcxzbl"
+  target="CSM-alexthib-sm">
+    Scrum Alliance - Certified Scrum Master
+</a>
+
 <a href="https://www.scrum.org/user/214835" 
  target="scrumorg">
    Scrum.org
