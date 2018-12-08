@@ -3,9 +3,10 @@ layout: default
 title: A propos d'Enjoy Agile
 permalink: /a-propos/
 ---
-<a href="/about">
+<a href="/a-propos">
 	<img src="/images/alexthib-I-am-an-agile-coach-squared.jpg" class="img-floating-left"/>
 </a>
+
 **Enjoy Agile** est un blogue en français destiné aux gens qui s'intéressent de près ou de loin à l'agilité, mais pas que. Je rêve d'un monde du travail qui évolue, ou du moins qu'on y réfléchisse ensemble. 
 
 Je m'appelle Alexandre Thibault, facilitateur de projets, coach agile, créateur d'ambiance, connecteur, <a href="https://www.meetup.com/fr-FR/members/82216172/" target="meetups">surfeur de meetups</a> ! On dit que je suis empathique, surtout sur mes patins de hockey sur glace !

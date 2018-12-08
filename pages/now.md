@@ -3,7 +3,7 @@ layout: default
 title: Now
 permalink: /now/
 ---
-<a href="/about">
+<a href="/a-propos">
 	<img src="/images/alexthib-I-am-an-agile-coach-squared.jpg" class="img-floating-left" />
 </a>
 
