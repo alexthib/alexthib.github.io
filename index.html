@@ -1,13 +1,38 @@
 ---
 layout: default
 title: Enjoy Agile - scrum, kanban, bonheur au travail, environnements avec membres d'équipes engagés
-pagination:
-  enabled: true
 ---
 
-{% for post in site.posts %}
+{% for post in paginator.posts %}
     <h1><a href="{{post.url}}">{{ post.title }}</a></h1>
     {{ post.excerpt }} 
     <a href="{{post.url}}">Lire la suite...</a>
     <div class="fill"></div>
 {% endfor %}
+
+<!-- pagination -->
+{% if paginator.total_pages > 1 %}
+<div class="pagination"> 
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Préc.</a>
+  {% else %}
+    <span>&laquo; Préc.</span>
+  {% endif %}
+
+  {% for page in (1..paginator.total_pages) %}
+    {% if page == paginator.page %}
+      <span class="webjeda">{{ page }}</span>
+    {% elsif page == 1 %}
+      <a href="/">{{ page }}</a>
+    {% else %}
+      <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
+    {% endif %}
+  {% endfor %}
+
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Suiv. &raquo;</a>
+  {% else %}
+    <span>Suiv. &raquo;</span>
+  {% endif %}
+</div>
+{% endif %}
