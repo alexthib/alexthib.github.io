@@ -4,15 +4,20 @@ title: A propos d'Enjoy Agile
 permalink: /a-propos/
 ---
 <a href="/a-propos">
-	<img src="/images/alexthib-I-am-an-agile-coach-squared.jpg" class="img-floating-left"/>
+	<img src="/images/alexandre-thibbault-flowcon.jpg" class="img-floating-left-small"/>
 </a>
 
-**Enjoy Agile** est un blogue en français destiné aux gens qui s'intéressent de près ou de loin à l'agilité, mais pas que. Je rêve d'un monde du travail qui évolue, ou du moins qu'on y réfléchisse ensemble. 
+**Enjoy Agile** est un blogue en français destiné aux gens qui s'intéressent de près ou de loin à l'agilité, mais pas que. Je rêve d'un monde du travail qui évolue, ou du moins qu'on y réfléchisse ensemble. Une communauté sur slack a aussi été créée en parallèle avec le même but, partager ! <a href="/slack/">Pour la rejoindre, suivre ce lien pour en savoir plus...</a>
 
 Je m'appelle Alexandre Thibault, facilitateur de projets, coach agile, créateur d'ambiance, connecteur, <a href="https://www.meetup.com/fr-FR/members/82216172/" target="meetups">surfeur de meetups</a> ! On dit que je suis empathique, surtout sur mes patins de hockey sur glace !
 
-<div class="fill"></div>
-<div class="fill"></div>
+**Pourquoi suis-je Coach Agile ?**
+
+Après 15 en tant que développeur, j'avais pour ambition de faciliter la communication entre équipes. Aujourd’hui, j’ai la motivation d’aider les directeurs et les managers à créer des environnements de travail où les membres des équipes sont engagés, et pas que dans les départements IT.
+
+**Ce qui est important pour moi chez un Coach Agile**
+
+Lorsqu’on arrive dans un nouveau contexte client, détecter le plus vite possible les dynamiques entre les gens. Essayer de trouver qui a l’ascendant sur les autres. Sentir d’où viennent le stress et la peur dans une équipe. Créer du liant avec la personne la plus haute placée possible dans une organisation. En écoute active, et par les multiples ateliers agiles, faire émerger des solutions par les équipes, et surtout, redonner de la responsabilisation et fierté à celles-ci. 
 
 **Ce que j'offre à mes clients**
 
