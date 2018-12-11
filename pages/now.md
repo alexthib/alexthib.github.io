@@ -4,10 +4,8 @@ title: Now
 permalink: /now/
 ---
 <a href="/a-propos">
-	<img src="/images/alexthib-I-am-an-agile-coach-squared.jpg" class="img-floating-left" />
+	<img src="/images/alexthib-I-am-an-agile-coach-squared.jpg" class="img-floating-left-small" />
 </a>
-
-<h1>Now</h1>
 
 <a href="https://www.linkedin.com/in/alexthib?locale=fr_FR&trk=profile_view_lang_sel_click" 
  target="linkedin">Alexandre Thibault - Mon LinkedIn</a>
