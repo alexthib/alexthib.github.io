@@ -7,7 +7,7 @@ Quelles ont été mes **inspirations** pour mon intérêt dans le monde de l'agi
 
 <a href="http://agilemanifesto.org/iso/fr/manifesto.html" target="_manifesteagile">Manifeste Agile</a>
 
-**5 vidéos à voir pendant tes temps libres qui s'appliquent à tout type de boîte**
+**5 vidéos intéressantes**
 
 - <a href="https://vimeo.com/15488784" target="_drive">Drive</a>
 - <a href="https://vimeo.com/37803892" target="_liberteandco">Liberté & Cie</a>
