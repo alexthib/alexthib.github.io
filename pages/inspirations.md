@@ -38,3 +38,7 @@ Quelles ont été mes **inspirations** pour mon intérêt dans le monde de l'agi
 **Ma référence**
 
 <a href="https://drive.google.com/open?id=0BxfOA1uWnfpyQktvR0hYRnFLakU" target="_googledrivealex">Rendez-vous sur Google Drive pour plus d'inspirations</a>
+
+**FAQ compilée par mon collègue Pablo Pernot**
+<a href="https://pablopernot.fr/2018/04/agora-et-faq/" target="_faq">FAQ</a>
+
