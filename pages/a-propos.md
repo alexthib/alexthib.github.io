@@ -3,9 +3,8 @@ layout: default
 title: A propos d'Enjoy Agile
 permalink: /a-propos/
 ---
-<a href="/a-propos">
-	<img src="/images/alexandre-thibbault-flowcon.jpg" class="img-floating-left-small"/>
-</a>
+
+<img src="/images/alexandre-thibbault-flowcon.jpg" class="img-floating-left-small"/>
 
 **Enjoy Agile** est un blogue en français destiné aux gens qui s'intéressent de près ou de loin à l'agilité, mais pas que. Je rêve d'un monde du travail qui évolue, ou du moins qu'on y réfléchisse ensemble. Une communauté sur slack a aussi été créée en parallèle avec le même but, partager ! <a href="/slack/">Pour la rejoindre, suivre ce lien pour en savoir plus...</a>
 

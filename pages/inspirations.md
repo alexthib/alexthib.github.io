@@ -7,6 +7,10 @@ Quelles ont été mes **inspirations** pour mon intérêt dans le monde de l'agi
 
 <a href="http://agilemanifesto.org/iso/fr/manifesto.html" target="_manifesteagile">Manifeste Agile</a>
 
+**Podcasts que j'écoutent régulièrement**
+
+<a href="/podcasts/">Podcasts, ou baladodiffusion pour les Québécois</a>
+
 **5 vidéos intéressantes**
 
 - <a href="https://vimeo.com/15488784" target="_drive">Drive</a>
