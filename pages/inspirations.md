@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Mes inspirations et références
+title: Alexandre Thibault - Mes inspirations et références
 permalink: /inspirations/
 ---
 Quelles ont été mes **inspirations** pour mon intérêt dans le monde de l'agilité, de la valeur métier produite, de la posture managériale et des dynamiques de groupe ? Voici une liste non exhaustive, mais déjà fournie.
@@ -45,4 +45,11 @@ Quelles ont été mes **inspirations** pour mon intérêt dans le monde de l'agi
 
 **FAQ compilée par mon collègue Pablo Pernot**
 <a href="https://pablopernot.fr/2018/04/agora-et-faq/" target="_faq">FAQ</a>
+
+<a href="https://twitter.com/share?ref_src={{site.url}}{{page.url}}" 
+   class="twitter-share-button" 
+   data-show-count="false">
+	Tweet
+</a>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 

@@ -43,3 +43,4 @@ A noter que je n’ai pas écrit que la ou le product owner attribue des éléme
 	Merci <a href="https://twitter.com/fleursaillofest" target="_merci">Fleur</a>, <a href="https://www.linkedin.com/in/sanaa-p-319044157/" target="_merci">Sanaa</a>, <a href="https://twitter.com/shadjiat" target="_merci">Souad</a> et <a href="https://twitter.com/_bnaude" target="_merci">Bastien</a> pour la relecture et l'amélioration de cet article !
 </div>
 
+

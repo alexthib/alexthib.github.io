@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Now
+title: Now - Alexandre Thibault
 permalink: /now/
 ---
 <a href="/a-propos">
@@ -20,4 +20,11 @@ permalink: /now/
 
 <a href="https://www.amazon.fr/Writing-Power-Techniques-Mastering-1998-07-09/dp/B01HC9SVPW/" target="nowbook">Writing With Power: Techniques for Mastering the Writing Process (Peter Elbow)</a>
 
-<a href="https://www.amazon.fr/ville-qui-tue-femmes-Enquête/dp/2012357679/" target="nowbook2">La ville qui tue les femmes : Enquête à Ciudad Juarez (Marc Fernandez, Jean-Christophe Rampal)</a>
+<a href="https://www.amazon.fr/Solve-Happy-Engineer-Your-Path/dp/1501157558" target="nowbook2">Solve for Happy (Mo Gawdat)</a>
+
+<a href="https://twitter.com/share?ref_src={{site.url}}{{page.url}}" 
+   class="twitter-share-button" 
+   data-show-count="false">
+	Tweet
+</a>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

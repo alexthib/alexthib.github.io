@@ -54,16 +54,6 @@ Lorsqu’on arrive dans un nouveau contexte client, détecter le plus vite possi
    Open Space Agility
 </a>
 
-<a href="http://bcert.me/shfvgrlo"
-  target="CSM-alexthib-po">
-    Scrum Alliance - Certified ProductOwner
-</a>
-
-<a href="http://bcert.me/sifcxzbl"
-  target="CSM-alexthib-sm">
-    Scrum Alliance - Certified Scrum Master
-</a>
-
 <a href="https://www.scrum.org/user/214835" 
  target="scrumorg">
    Scrum.org
@@ -82,3 +72,11 @@ Lorsqu’on arrive dans un nouveau contexte client, détecter le plus vite possi
  target="wos">
    We Open Space
 </a>
+
+<a href="https://twitter.com/share?ref_src={{site.url}}{{page.url}}" 
+   class="twitter-share-button" 
+   data-show-count="false">
+  Tweet
+</a>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
