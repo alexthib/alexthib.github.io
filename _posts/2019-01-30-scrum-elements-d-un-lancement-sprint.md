@@ -21,7 +21,7 @@ categories: scrum
 
 <!--more-->
 
-1. 1) Est-ce qu’il y a des congés, séminaires, formations, fériées … bref, des événements connus qui vont impacter sur la capacité de l’équipe à réaliser de la valeur métier.
+1. 1) Est-ce qu’il y a des congés, séminaires, formations, fériées … bref, des événements connus qui vont impacter sur la capacité de l’équipe à réaliser de la valeur métier. Ou comme on me l'a rappelé, il faut aussi anticiper ce qui va prendre de l'énergie, par exemple la mise en production (MEP) d'une autre équipe qui impacte le logiciel réalisé par notre équipe (gestion de dépendance).
 
 2. 2) R.A.F. - Est-ce qu’il y a, “malheureusement”, du Reste A Faire (et non pas du rien à foutre) qui vient du sprint précédent ?
 
@@ -40,7 +40,7 @@ A noter que je n’ai pas écrit que la ou le product owner attribue des éléme
 --
 
 <div class="photocredit">
-	Merci <a href="https://twitter.com/fleursaillofest" target="_merci">Fleur</a>, <a href="https://www.linkedin.com/in/sanaa-p-319044157/" target="_merci">Sanaa</a>, <a href="https://twitter.com/shadjiat" target="_merci">Souad</a> et <a href="https://twitter.com/_bnaude" target="_merci">Bastien</a> pour la relecture et l'amélioration de cet article !
+	Merci <a href="https://twitter.com/fleursaillofest" target="_merci">Fleur</a>, <a href="https://www.linkedin.com/in/sanaa-p-319044157/" target="_merci">Sanaa</a>, <a href="https://twitter.com/shadjiat" target="_merci">Souad</a>, <a href="https://twitter.com/_bnaude" target="_merci">Bastien</a> et <a href="http://roudier.io/" target="_merci">Pierre</a> pour la relecture et l'amélioration de cet article !
 </div>
 
 
