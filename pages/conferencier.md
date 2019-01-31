@@ -16,7 +16,7 @@ Deuxièmement, ayez l'intention de transmettre aux gens qui sont venus à votre 
 
 Si vous avez déjà ça en vous (les trippes, le coeur, la tête), malgré des défauts comme décrits sur les cartes du jeu, ça va le faire. L'audience va sentir votre sujet et même vous encourager lors de moments de timidité ou si vous avez des blancs par exemple. 
 
-Alors qu'au contraire, si vous avez tout bon niveau posture, gestuelle, regard, etc, mais que votre sujet sonne creux, pas senti, on soupçonnera de vous faire plaisir sur scène pour votre petit ego mal placé. Ne devenez pas une fraude comme dirait Seth Godin (https://seths.blog).
+Alors qu'au contraire, si vous avez tout bon niveau posture, gestuelle, regard, etc, mais que votre sujet sonne creux, pas senti, on soupçonnera de vous faire plaisir sur scène pour votre petit ego mal placé. Ne devenez pas une fraude comme dirait <a href="https://seths.blog" target="_sethblog">Seth Godin</a>.
 
 Ah oui, et n'oubliez pas de boire de l'eau avant, et avoir une petite bouteille pas loin...
 "
