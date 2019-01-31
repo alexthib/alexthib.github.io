@@ -6,7 +6,20 @@ permalink: /conferencier/
 
 <img src="/images/alexandre-thibault-conferencier.jpeg" class="img-floating-left-mid-size"/>
 
-J'ai eu la chance d'être conférencier et interviewé à quelques reprises depuis que je suis coach agile.
+J'ai eu la chance d'être conférencier et interviewé à quelques reprises depuis que je suis coach agile.  
+
+Voici une réponse que j'ai faite sur Linkedin lorsqu'on m'a solicité des conseils lors qu'on prend la parole en publique : 
+
+"
+Premièrement, j'aurais tendance à vous suggérer de rester vous-même. Par exemple, si vous aimez l'humour, faites quelques blagues par exemple. Si vous n'êtes pas trop dans ce courant, ne vous improvisez pas comédien comique.
+Deuxièmement, ayez l'intention de transmettre aux gens qui sont venus à votre session ou votre meetup. Vous êtes au service des gens devant vous.  
+
+Si vous avez déjà ça en vous (les trippes, le coeur, la tête), malgré des défauts comme décrits sur les cartes du jeu, ça va le faire. L'audience va sentir votre sujet et même vous encourager lors de moments de timidité ou si vous avez des blancs par exemple. 
+
+Alors qu'au contraire, si vous avez tout bon niveau posture, gestuelle, regard, etc, mais que votre sujet sonne creux, pas senti, on soupçonnera de vous faire plaisir sur scène pour votre petit ego mal placé. Ne devenez pas une fraude comme dirait Seth Godin (https://seths.blog).
+
+Ah oui, et n'oubliez pas de boire de l'eau avant, et avoir une petite bouteille pas loin...
+"
 
 <div class="fill"></div>
 
