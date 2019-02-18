@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Enjoy Agile sur Tweeter
-permalink: /tweeter/
+title: Enjoy Agile sur Twitter
+permalink: /twitter/
 ---
 
 <a class="twitter-timeline" href="https://twitter.com/AlexandreThib?ref_src={{site.url}}{{page.url}}">
