@@ -23,7 +23,9 @@ Ah oui, et n'oubliez pas de boire de l'eau avant, et avoir une petite bouteille 
 
 <div class="fill"></div>
 
-**Leucosélophobie ou la peur de la page blanche pour le PO**
+<h2>Leucosélophobie ou la peur de la page blanche pour le PO</h2>
+
+<div class="fill"></div>
 
 <img src="/images/agile-pays-basque-leuco.jpg" class="img-floating-left-mid-size"/>
 
@@ -43,6 +45,13 @@ Comme l'auteur de romans, la peur de la page blanche peut frapper certains "Prod
 
 *Support de présentation*
 <a href="https://speakerdeck.com/alexthib/leucoselophobie-ou-la-peur-de-la-page-blanche-pour-le-product-owner" target="_speakerdeckleucoselophobie">SpeakerDeck</a>
+
+*Vidéo*
+<div class="floating-left">
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/VMdkd85snGU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<div class="fill"></div>
 
 
 
