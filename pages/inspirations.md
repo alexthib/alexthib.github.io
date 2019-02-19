@@ -7,6 +7,20 @@ Quelles ont été mes **inspirations** pour mon intérêt dans le monde de l'agi
 
 <a href="http://agilemanifesto.org/iso/fr/manifesto.html" target="_manifesteagile">Manifeste Agile</a>
 
+**Personnes qui m'inspirent et leur blog**
+
+- <a href="https://doubleboucle.fr/" target="_alf">Alexandre Martinez</a> (Coaching perso, Wardley Maps)
+- <a href="https://pyxis-tech.com/fr/equipe/christian-lapointe/" target="_christian">Christian Lapointe</a> (Ecoute active, Panarchy)
+- <a href="https://www.danpink.com/resources/" target="_danpink">Daniel Pink</a> (la vérité sur ce qui nous motive)
+- <a href="http://www.andwhatif.fr/" target="_dragos">Dragos Dreptate</a> (impact mapping et organisation d'événements)
+- <a href="https://github.com/egaillot" target="_emmanuelgaillot">Emmanuel Gaillot</a> (open space, introspection et méditation)
+- <a href="https://liberteetcie.com/" target="_isaacgetz">Isaac Getz</a> (management 3.0 et confiance)
+- <a href="https://medium.com/@johnpcutler" target="_dragos">John Cutler</a> (produit et savoir faire des paris)
+- <a href="http://inquiryinstitute.com/blog/" target="_marilee">Marilee Adams</a> (questions ouvertes et management)
+- <a href="https://pablopernot.fr/" target="_pablo">Pablo Pernot</a> (coaching agile, changement des organisations, rock and roll)
+- <a href="https://seths.blog/" target="_seth">Seth Godin</a> (marketing et raconter des histoires)
+- <a href="https://medium.com/@ygrenzinger" target="_yannickg">Yannick Grenzinger</a> (palo alto et paradoxes)
+
 **Podcasts que j'écoutent régulièrement**
 
 <a href="/podcasts/">Podcasts, ou baladodiffusion pour les Québécois</a>
@@ -39,12 +53,12 @@ Quelles ont été mes **inspirations** pour mon intérêt dans le monde de l'agi
 - [Thinking, Fast and Slow](https://www.amazon.fr/Thinking-Fast-Slow-Daniel-Kahneman/dp/0141033576) (Daniel Kahneman)
 - [User Story Mapping](https://www.amazon.fr/User-Story-Mapping-Jeff-Patton/dp/1491904909) (Jeff Patton)
 
-**Ma référence**
-
-<a href="https://drive.google.com/open?id=0BxfOA1uWnfpyQktvR0hYRnFLakU" target="_googledrivealex">Rendez-vous sur Google Drive pour plus d'inspirations</a>
-
 **FAQ compilée par mon collègue Pablo Pernot**
 <a href="https://pablopernot.fr/2018/04/agora-et-faq/" target="_faq">FAQ</a>
+
+**Ma référence personnelle**
+
+<a href="https://drive.google.com/open?id=0BxfOA1uWnfpyQktvR0hYRnFLakU" target="_googledrivealex">Rendez-vous sur Google Drive pour plus d'inspirations</a>
 
 <a href="https://twitter.com/share?ref_src={{site.url}}{{page.url}}" 
    class="twitter-share-button" 
