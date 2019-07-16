@@ -63,7 +63,7 @@ Lorsqu’on arrive dans un nouveau contexte client, détecter le plus vite possi
    Slack
 </a>
 
-<a href="https://twitter.com/alexandrethib" 
+<a href="https://twitter.com/weopenspace" 
  target="twitter">
    Twitter
 </a>
