@@ -10,17 +10,19 @@ permalink: /now/
 <a href="https://www.linkedin.com/in/alexthib?locale=fr_FR&trk=profile_view_lang_sel_click" 
  target="linkedin">Alexandre Thibault - Mon LinkedIn</a>
 
-<a href="http://www.benextcompany.com" target="nowwork">Je travaille chez beNext à Paris</a>
+<a href="https://pyxis-tech.com/fr/a-propos-de-oddes-conseil/" target="nowwork">Je travaille chez ODDES à Paris</a>
 
 <a href="https://les-bucherons-de-courbeach.sporteasy.net/" target="nowsport1">Je fais partie du club de hockey sur glace les bûcherons de Courbevoie</a>
 
-<a href="http://www.weopenspace.com" target="nowwos">J'organise des open space chez beNext un samedi par mois !</a>
+<a href="http://www.weopenspace.com" target="nowwos">J'organise des open space chez Agorapulse un samedi par mois !</a>
 
 <h2>Je lis</h2>
 
-<a href="https://www.amazon.fr/Writing-Power-Techniques-Mastering-1998-07-09/dp/B01HC9SVPW/" target="nowbook">Writing With Power: Techniques for Mastering the Writing Process (Peter Elbow)</a>
+<a href="https://www.goodreads.com/book/show/22529127-team-of-teams" target="nowbook">Team of Teams: New Rules of Engagement for a Complex World (Stanley McChrystal)</a>
 
-<a href="https://www.amazon.fr/Solve-Happy-Engineer-Your-Path/dp/1501157558" target="nowbook2">Solve for Happy (Mo Gawdat)</a>
+<a href="https://www.goodreads.com/book/show/13436116-lean-ux" target="nowbook2">Lean UX: Applying Lean Principles to Improve User Experience (Jeff Gothelf, Josh Seiden)</a>
+
+<a href="https://www.babelio.com/livres/Frechette-Cadillac/1097551" target="nowbook3">Cadillac (Biz Fréchette)</a>
 
 <a href="https://twitter.com/share?ref_src={{site.url}}{{page.url}}" 
    class="twitter-share-button" 
