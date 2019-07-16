@@ -29,5 +29,4 @@ En voici plusieurs que je vous recommande chaudement !
 - <a href="https://www.ted.com/read/ted-podcasts/ted-interview" target="_tedinterview">The TED Interview</a> (Chris Anderson : in english)
 - <a href="http://www.thisagilelife.com/" target="_thisagilelife">This Agile Life</a> (John Sextro and co : in english)
 - <a href="https://www.stitcher.com/podcast/work-that-matters" target="_workthatmatters">Work that Matters by WorkIQ</a> (Shawn Murphy : in english)
-
-
+- <a href="https://your-undivided-attention.simplecast.com" target="_yourundividedattention">Your Undivided Attention</a> (Tristan Harris, Aza Raskin : in english)
