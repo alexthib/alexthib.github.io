@@ -135,7 +135,7 @@ Les propositions d'évolutions de l'organisation de <a href="/assets/pdf/previou
 
 Dans la vraie vie
 ----------------- 
-J'ai déjà utilisé cet atelier dans des contextes bancaires et médias. Avec <a href="https://www.areyouagile.com/a-propos/" target="_areyouagile">Pablo</a>, on s'est inspiré entre autres du jeu <a href="https://management30.com/product/meddlers/" target="_meddlers">Meddlers</a> du management 3.0. Pablo a commencé avec les <a href="/assets/pdf/arts-plastiques-formes.pdf" target="_artsplastiquesformes">formes à imprimer</a> pour démarrer le découpage en mode freestyle ! Puis, j'ai rajouté récemment les bâtons de colle, les feuilles de couleur et les vieux magazines pour avoir encore plus de richesse dans le rendu.
+J'ai déjà utilisé cet atelier dans des contextes bancaires et médias. Avec <a href="https://www.areyouagile.com/a-propos/" target="_areyouagile">Pablo</a>, on s'est inspiré entre autres du jeu <a href="https://management30.com/product/meddlers/" target="_meddlers">Meddlers</a> du management 3.0. On a commencé avec les <a href="/assets/pdf/arts-plastiques-formes.pdf" target="_artsplastiquesformes">formes à imprimer</a> pour démarrer le découpage en mode freestyle ! Puis, j'ai rajouté récemment les bâtons de colle, les feuilles de couleur et les vieux magazines pour avoir encore plus de richesse dans le rendu.
 
 Le sponsor d'une journée d'arts plastiques doit avoir le pouvoir de mettre en oeuvre les actions proposées par les participants. Cela ne veut pas dire que tout sera mis en place, mais il ou elle doit avoir ce pouvoir ! Prévoir d'envoyer l'invitation un minimum de deux semaines en avance pour que les gens puissent s'organiser et mijoter. 
 

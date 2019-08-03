@@ -53,9 +53,6 @@ Quelles ont été mes **inspirations** pour mon intérêt dans le monde de l'agi
 - [Thinking, Fast and Slow](https://www.amazon.fr/Thinking-Fast-Slow-Daniel-Kahneman/dp/0141033576) (Daniel Kahneman)
 - [User Story Mapping](https://www.amazon.fr/User-Story-Mapping-Jeff-Patton/dp/1491904909) (Jeff Patton)
 
-**FAQ compilée par mon collègue Pablo Pernot**
-<a href="https://pablopernot.fr/2018/04/agora-et-faq/" target="_faq">FAQ</a>
-
 **Ma référence personnelle**
 
 <a href="https://drive.google.com/open?id=0BxfOA1uWnfpyQktvR0hYRnFLakU" target="_googledrivealex">Rendez-vous sur Google Drive pour plus d'inspirations</a>
