@@ -18,11 +18,9 @@ permalink: /now/
 
 <h2>Je lis</h2>
 
-<a href="https://www.goodreads.com/book/show/22529127-team-of-teams" target="nowbook">Team of Teams: New Rules of Engagement for a Complex World (Stanley McChrystal)</a>
+<a href="https://www.audible.fr/pd/Extreme-Ownership-Livre-Audio/B015TVN2ZY" target="nowbook">Extreme Ownership - How U.S. Navy SEALs Lead and Win (Jocko Willink, Leif Babin)</a>
 
-<a href="https://www.goodreads.com/book/show/13436116-lean-ux" target="nowbook2">Lean UX: Applying Lean Principles to Improve User Experience (Jeff Gothelf, Josh Seiden)</a>
-
-<a href="https://www.babelio.com/livres/Frechette-Cadillac/1097551" target="nowbook3">Cadillac (Biz Fréchette)</a>
+<a href="https://www.babelio.com/livres/St-John-Mandel-Station-Eleven/854430" target="nowbook2">Station Eleven (Emily St. John Mandel)</a>
 
 <a href="https://twitter.com/share?ref_src={{site.url}}{{page.url}}" 
    class="twitter-share-button" 
