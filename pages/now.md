@@ -18,7 +18,7 @@ permalink: /now/
 
 <h2>Je lis</h2>
 
-<a href="https://www.audible.fr/pd/Extreme-Ownership-Livre-Audio/B015TVN2ZY" target="nowbook">Extreme Ownership - How U.S. Navy SEALs Lead and Win (Jocko Willink, Leif Babin)</a>
+<a href="https://www.audible.fr/ep/title?asin=B06XPY7H86" target="nowbook">Libérez votre cerveau ! Traité de neurosagesse pour changer l'école et la société (Idriss Aberkane)</a>
 
 <a href="https://www.babelio.com/livres/St-John-Mandel-Station-Eleven/854430" target="nowbook2">Station Eleven (Emily St. John Mandel)</a>
 
