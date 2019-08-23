@@ -20,7 +20,7 @@ permalink: /now/
 
 <a href="https://www.audible.fr/ep/title?asin=B06XPY7H86" target="nowbook">Libérez votre cerveau ! Traité de neurosagesse pour changer l'école et la société (Idriss Aberkane)</a>
 
-<a href="https://www.babelio.com/livres/St-John-Mandel-Station-Eleven/854430" target="nowbook2">Station Eleven (Emily St. John Mandel)</a>
+<a href="https://www.babelio.com/livres/Henaff-Art-et-deces/1098429" target="nowbook2">Art et décès (Sophie Hénaff)</a>
 
 <a href="https://twitter.com/share?ref_src={{site.url}}{{page.url}}" 
    class="twitter-share-button" 
