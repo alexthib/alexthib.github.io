@@ -30,7 +30,7 @@ show_dir_listing: false
 permalink: /:categories/:title/
 timezone: Europe/Paris
 excerpt_separator: <!--more-->
-paginate: 4
+paginate: 5
 paginate_path: /page:num/
 
 ############################### Build settings
