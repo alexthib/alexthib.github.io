@@ -18,9 +18,9 @@ permalink: /now/
 
 <h2>Je lis</h2>
 
-<a href="https://www.audible.fr/ep/title?asin=B06XPY7H86" target="nowbook">Libérez votre cerveau ! Traité de neurosagesse pour changer l'école et la société (Idriss Aberkane)</a>
+<a href="https://senseandrespond.co/" target="nowbook">Sense and Respond, How Successful Organizations Listen to Customers and Create New Products Continuously (Jeff Gothelf, Josh Seiden)</a>
 
-<a href="https://www.babelio.com/livres/Henaff-Art-et-deces/1098429" target="nowbook2">Art et décès (Sophie Hénaff)</a>
+<a href="https://www.babelio.com/livres/Mrkaris-Le-Che-sest-suicide/27802" target="nowbook2">Le Ché s'est suicidé (Pétros Márkaris)</a>
 
 <a href="https://twitter.com/share?ref_src={{site.url}}{{page.url}}" 
    class="twitter-share-button" 
