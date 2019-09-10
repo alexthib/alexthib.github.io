@@ -7,6 +7,8 @@ permalink: /now/
 	<img src="/images/alexthib-I-am-an-agile-coach-squared.jpg" class="img-floating-left-small" />
 </a>
 
+<a href="/manger/paris">J'habite en région parisienne et j'adore les restaurants</a>
+
 <a href="https://www.linkedin.com/in/alexthib?locale=fr_FR&trk=profile_view_lang_sel_click" 
  target="linkedin">Alexandre Thibault - Mon LinkedIn</a>
 

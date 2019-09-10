@@ -73,6 +73,10 @@ Lorsqu’on arrive dans un nouveau contexte client, détecter le plus vite possi
    We Open Space
 </a>
 
+<a href="/manger/paris">
+  Ma liste de restaurants à Paris
+</a>
+
 <a href="https://twitter.com/share?ref_src={{site.url}}{{page.url}}" 
    class="twitter-share-button" 
    data-show-count="false">
