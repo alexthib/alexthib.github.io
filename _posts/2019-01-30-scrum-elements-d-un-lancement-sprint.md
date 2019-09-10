@@ -17,8 +17,8 @@ categories: scrum
 <div class="clearfix">
 	Dans ce court article, je décris la structure que je recommande pour lancer un sprint en pensant à tous les éléments en jeu. L'idée est venue, car j'observe qu'on démarre, par réflexe et enthousiasme sûrement, sur les nouveautés côté métier, les user stories. Cependant, il n'y a pas que la course à la nouvelle fonctionnalité dans un projet informatique !
 </div>
-
-
+  
+  
 <!--more-->
 
 1. 1) Est-ce qu’il y a des congés, séminaires, formations, fériées … bref, des événements connus qui vont impacter sur la capacité de l’équipe à réaliser de la valeur métier. Ou comme on me l'a rappelé, il faut aussi anticiper ce qui va prendre de l'énergie, par exemple la mise en production (MEP) d'une autre équipe qui impacte le logiciel réalisé par notre équipe (gestion de dépendance).
