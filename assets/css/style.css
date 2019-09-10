@@ -350,6 +350,23 @@ footer .copyright {
     background-color: #444444;
 }
 
+/************************** google maps ************************/
+
+.google-maps {
+    position: relative;
+    padding-bottom: 50%; // This is the aspect ratio
+    height: 0;
+    overflow: hidden;
+}
+.google-maps iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100% !important;
+    height: 100% !important;
+}
+
+
 /************************** MEDIA QUERY ************************/
 
 @media only screen and (max-width : 640px) {
