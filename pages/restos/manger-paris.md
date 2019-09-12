@@ -5,7 +5,7 @@ permalink: /manger/paris
 ---
 
 <div class="clearfix">
-	<img src="/images/manger-paris.jpg" class="img-floating-left-large" />
+	<img src="/images/restos/manger-paris.jpg" class="img-floating-left-large" />
 </div>
 
 ## Voici les restaurants que je vous recommande sur Paris. ##  
