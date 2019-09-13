@@ -77,6 +77,10 @@ Lorsqu’on arrive dans un nouveau contexte client, détecter le plus vite possi
   Ma liste de restaurants à Paris
 </a>
 
+<a href="/manger/monde">
+  Ma liste de restaurants dans le reste du monde
+</a>
+
 <a href="https://twitter.com/share?ref_src={{site.url}}{{page.url}}" 
    class="twitter-share-button" 
    data-show-count="false">

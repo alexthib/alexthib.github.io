@@ -9,7 +9,7 @@ permalink: /manger/allemagne
 </div>
 
 <a href="/manger/monde">Retour à la liste des restaurants que j'ai aimé dans le monde !</a>  
-
+  
 ___
     
   

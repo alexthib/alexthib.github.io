@@ -5,12 +5,12 @@ permalink: /manger/paris
 ---
 
 <div class="clearfix">
-	<img src="/images/restos/manger-paris.jpg" class="img-floating-left-large" />
+	<img src="/images/restos/manger-paris.jpg" class="img-floating-left-mid-size" />
 </div>
-
-## Voici les restaurants que je vous recommande sur Paris. ##  
-_Ce sont ceux que j'ai déjà essayés par moi-même!_  
   
+<a href="/manger/monde">Retour à la liste des restaurants que j'ai aimé dans le monde !</a>  
+  
+___
 
 Disponible sur une google map : <a href="https://www.google.com/maps/d/u/0/viewer?mid=1CdCCax6sx2GoiywD3dR-sX_tDjc" target="_gmapparis">cliquez ici !</a>  
   
@@ -622,4 +622,9 @@ Cluny La, 21 Rue Saint-Jacques, 75005 Paris - 01 56 24 84 88
 <div class="google-maps">
 	<iframe src="https://www.google.com/maps/d/embed?mid=1CdCCax6sx2GoiywD3dR-sX_tDjc"></iframe>
 </div>
-
+  
+  
+___
+  
+<a href="/manger/monde">Retour à la liste des restaurants que j'ai aimé dans le monde !</a>  
+  
