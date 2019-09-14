@@ -1,77 +1,10 @@
 
 
-<br />
-<br />
-<span style="color: #000099;"><span style="font-weight: bold;">ARGENTINE</span></span><br />
-<br />
-<span style="color: #990000; font-weight: bold;">- Buenos Aires</span><br />
-<br />
-<b>Caldén del soho</b><br />
-<i>Parrilla argentina</i><br />
-<span style="background-color: #f1f1f1; font-family: &quot;roboto&quot; , &quot;arial&quot; , sans-serif;">Honduras 4701, C1414BMK CABA, Argentine</span><br />
-<span style="background-color: #f1f1f1;"><span style="font-family: &quot;roboto&quot; , &quot;arial&quot; , sans-serif;"><a href="https://www.tripadvisor.com/Restaurant_Review-g312741-d1142327-Reviews-Calden_del_Soho-Buenos_Aires_Capital_Federal_District.html">https://www.tripadvisor.com/Restaurant_Review-g312741-d1142327-Reviews-Calden_del_Soho-Buenos_Aires_Capital_Federal_District.html</a></span></span><br />
-<b><br /></b>
-<b>Delicious Cafe</b><br />
-<i>Très bon tit-dej</i><br />
-Laprida 2015, C1126 CABA, Argentine +54 11 4803-1151<br />
-<a href="http://www.tripadvisor.com/Restaurant_Review-g312741-d2183899-Reviews-Delicious_Cafe-Buenos_Aires_Capital_Federal_District.html">www.tripadvisor.com/Restaurant_Review-g312741-d2183899-Reviews-Delicious_Cafe-Buenos_Aires_Capital_Federal_District.html</a><br />
-<div>
-<br /></div>
-<b>Olivetti</b><br />
-<i>bon italien, terrasse, beau quartier</i><br />
-Av. Cerviño 3800, C1425AGT CABA, Argentine +54 11 4802-4075<br />
-<a href="http://www.trattoriaolivetti.com/">www.trattoriaolivetti.com</a><br />
-<br />
-<b>Oviedo</b><br />
-<i>resto classe, très bon service, bons produits</i><br />
-Beruti 2602, C1425BBD CABA, Argentine&nbsp; +54 11 4821-3741<br />
-<a href="http://www.oviedoresto.com.ar/">www.oviedoresto.com.ar</a><br />
-<br />
-<span style="color: #990000; font-weight: bold;">- Cafayate</span><br />
-<br />
-<b>Baco</b><br />
-<i>Pour le lunch, mode pasta and meet</i><br />
-Av. Gral. Güemes Norte, A4427 Cafayate, Salta, Argentine +54 3868 56-6185<br />
-<a href="http://www.tripadvisor.com/Restaurant_Review-g317027-d1236192-Reviews-Baco-Cafayate_Province_of_Salta_Northern_Argentina.html">www.tripadvisor.com/Restaurant_Review-g317027-d1236192-Reviews-Baco-Cafayate_Province_of_Salta_Northern_Argentina.html</a><br />
-<br />
-<b>Pacha</b><br />
-<span style="background-color: white; color: #222222; font-family: &quot;roboto&quot; , &quot;arial&quot; , sans-serif;"><i>resto - bar - terrasse</i></span><br />
-Av. Gral. Güemes Sur 143, A4427 Cafayate, Salta, Argentine +54 3868 63-9002<br />
-<a href="http://www.tripadvisor.com/Restaurant_Review-g317027-d7812419-Reviews-Pacha_Resto_Bar-Cafayate_Province_of_Salta_Northern_Argentina.html">www.tripadvisor.com/Restaurant_Review-g317027-d7812419-Reviews-Pacha_Resto_Bar-Cafayate_Province_of_Salta_Northern_Argentina.html</a><br />
-<br />
-<span style="color: #990000; font-weight: bold;">- Puerta Iguazù</span><br />
-<br />
-<b>Aqva</b><br />
-<i>Très bon argentin, poisson ou viande</i><br />
-Puerto Iguazú Misiones AR, Av. Córdoba s/n, N3370 COB, Misiónes, Argentine +54 3757 42-2064<br />
-<a href="http://www.aqvarestaurant.com/">www.aqvarestaurant.com</a><br />
-<br />
-<b>Restaurant la Rueda&nbsp;</b><br />
-<i>Très bonne viande, attente avec du champagne</i><br />
-<div style="font-family: roboto, arial, sans-serif;">
-Av. Córdoba 28, N3370CON Puerto Iguazú, Misiónes, Argentine +54 3757 42-2531</div>
-<span style="font-family: &quot;roboto&quot; , &quot;arial&quot; , sans-serif;"><a href="http://www.larueda1975.com.ar/">www.larueda1975.com.ar</a></span><br />
-<div>
-<br /></div>
-<span style="color: #990000; font-weight: bold;">- Tilcara</span><br />
-<br />
-<b>Arumi</b><br />
-<i>Un des meilleurs resto, très calme, bonne qualité, local avec un peu plus de subtilité</i><br />
-Lavalle 660, Y4624 Tilcara, Jujuy, Argentine +54 9 387 409-8679<br />
-<a href="http://www.tripadvisor.com/Restaurant_Review-g312817-d3180661-Reviews-Arumi-Tilcara_Province_of_Jujuy_Northern_Argentina.html">www.tripadvisor.com/Restaurant_Review-g312817-d3180661-Reviews-Arumi-Tilcara_Province_of_Jujuy_Northern_Argentina.html</a><br />
-<br />
-<span style="color: #990000; font-weight: bold;">- Salta</span><br />
-<br />
-<b>El Charrua</b><br />
-<i>Très très bonne viande de boeuf ! Parrilla</i><br />
-Caseros 221, A4400DME Salta, Argentine +54 387 432-1859<br />
-<a href="http://www.tripadvisor.com/Restaurant_Review-g312822-d2068996-Reviews-El_Charrua_Caseros-Salta_Province_of_Salta_Northern_Argentina.html">www.tripadvisor.com/Restaurant_Review-g312822-d2068996-Reviews-El_Charrua_Caseros-Salta_Province_of_Salta_Northern_Argentina.html</a><br />
-<br />
-<b>La Céfira</b><br />
-<i>Très bon italien</i><br />
-Córdoba 481, A4402 EZI, Salta, Argentine&nbsp; +54 387 421-4922<br />
-<a href="http://www.tripadvisor.com/Restaurant_Review-g312822-d3599688-Reviews-La_Cefira-Salta_Province_of_Salta_Northern_Argentina.html">www.tripadvisor.com/Restaurant_Review-g312822-d3599688-Reviews-La_Cefira-Salta_Province_of_Salta_Northern_Argentina.html</a><br />
-<div>
+
+
+
+
+	
 <br /></div>
 <br />
 <span style="color: #000099;"><span style="font-weight: bold;">AUTRICHE</span></span><br />
