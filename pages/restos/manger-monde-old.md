@@ -1,27 +1,4 @@
 
-
-
-
-
-
-	
-<br /></div>
-<br />
-<span style="color: #000099;"><span style="font-weight: bold;">AUTRICHE</span></span><br />
-<br />
-<span style="color: #990000; font-weight: bold;">- Vienne</span><br />
-<br />
-<b>Figlmüller</b><br />
-<span style="font-style: italic;">Schnitzels les plus gros et les meilleurs de Vienne</span><br />
-Wollzeile 5, 1010 Vienna -&nbsp;<span style="background-color: white; color: #222222; font-family: &quot;lucida grande&quot; , &quot;lucida sans unicode&quot; , &quot;verdana&quot; , sans-serif;">+43/1/ 512 61 77</span><br />
-<a href="http://www.figlmueller.at/">www.figlmueller.at</a><br />
-<br />
-<b>Salieri</b><br />
-<span style="font-style: italic;">Très bon italien</span><br />
-Wien 1. Seilerstätte 17 - <span style="color: #222222; font-family: &quot;lucida grande&quot; , &quot;lucida sans unicode&quot; , &quot;verdana&quot; , sans-serif; font-size: xx-small;">01/ 513 86 48</span><br />
-<a href="http://www.salieri.at/">www.salieri.at/</a><br />
-<br />
-<br />
 <span style="color: #000099;"><span style="font-weight: bold;">BELGIQUE</span></span><br />
 <br />
 <span style="color: #990000; font-weight: bold;">- Brugge</span><br />

@@ -22,7 +22,8 @@ ___
   
 <a href="/manger/argentine">Argentine</a>  
   
-  
+<a href="/manger/autriche">Autriche</a>  
+    
 <div class="google-maps">
 	<iframe src="https://www.google.com/maps/d/embed?mid=10s1nd5St-ZlE4JKHPynjXrBXoFM&hl=fr"></iframe>
 </div>
