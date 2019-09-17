@@ -277,7 +277,7 @@ Cluny La, 21 Rue Saint-Jacques, 75005 Paris - 01 56 24 84 88
 46B rue de Clichy - 75009 - 01 42 82 02 47  
   
   
-**10e arrondissement **  
+**10e arrondissement**  
   
 <a href="https://www.bistrotbrune.fr/">Bistrot Brune</a> - Restaurant et bar à vin  
 70 rue du Faubourg Saint Martin - 75010 - 01.42.08.16.81  
@@ -322,7 +322,7 @@ Cluny La, 21 Rue Saint-Jacques, 75005 Paris - 01 56 24 84 88
 96 Rue d'Hauteville, 75010 - 09 81 99 84 81  
   
   
-**11e arrondissement ** 
+**11e arrondissement** 
   
 <a href="http://www.amicimieiparis.com/">Amici Miei</a> - cuisine italienne  
 44 Rue Saint-Sabin - 75011 -   01 42 71 82 62  
