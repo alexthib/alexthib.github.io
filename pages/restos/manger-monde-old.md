@@ -1,29 +1,4 @@
 
-<span style="color: #000099;"><span style="font-weight: bold;">BELGIQUE</span></span><br />
-<br />
-<span style="color: #990000; font-weight: bold;">- Brugge</span><br />
-<br />
-<div style="font-family: roboto, arial, sans-serif;">
-<b>Tom's Dinner</b></div>
-<div style="font-family: roboto, arial, sans-serif;">
-West-Gistelhof 23, 8000 Brugge, Belgique - +32 50 33 33 82</div>
-<div style="font-family: roboto, arial, sans-serif;">
-<a href="http://www.tomsdiner.be/" style="color: #6611cc; text-decoration: none;" target="_blank" wrc_done="true">www.tomsdiner.be</a></div>
-<br />
-<span style="color: #990000; font-weight: bold;">- Bruxelles</span><br />
-<br />
-<b>Les Brassins</b><br />
-<span style="font-style: italic;">Tous les jours, 12h à 24h, carbonnade de la mort qui tue, bières belges</span><br />
-<span style="font-style: italic;">Réserver si possible 1 semaine avant...</span><br />
-36 rue Keyenveld - 1050 - Bruxelles - 02 512 69 99<br />
-<a href="http://www.lesbrassins.com/">www.lesbrassins.com</a><br />
-<br />
-<b>Rêve d'Asie</b><br />
-<i>Cuisine Thaï et Viet</i><br />
-Rue Jules Van Praet 19 - 1000 - Bruxelles - 02 502 48 28<br />
-<a href="http://www.tripadvisor.fr/Restaurant_Review-g188644-d1069532-Reviews-Reve_D_asie-Brussels.html">www.tripadvisor.fr/Restaurant_Review-g188644-d1069532-Reviews-Reve_D_asie-Brussels.html</a><br />
-<br />
-<br />
 <span style="color: #000099;"><span style="font-weight: bold;">CANADA</span></span><br />
 <br />
 <span style="color: #990000; font-weight: bold;">- Montréal</span><br />
