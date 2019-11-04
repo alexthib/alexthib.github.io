@@ -297,11 +297,14 @@ Cluny La, 21 Rue Saint-Jacques, 75005 Paris - 01 56 24 84 88
 <a href="http://www.ippudo.fr/">IPPUDO</a> République - Très bon ramen et entrées  
 6 Place Jacques Bonsergent, 75010 - 01 40 18 40 81  
 
-<a href="https://www.tripadvisor.com/Restaurant_Review-g187147-d10072596-Reviews-Les_Arlots-Paris_Ile_de_France.html">Les Arlots</a> - Produits frais  
-136 Rue du Faubourg Poissonnière, 75010 - 01 42 82 92 01  
-  
 <a href="http://latavernedezhao.com/">La Taverne de Zhao</a> - nouilles chinoises, top ! original par rapport à ce que j'ai mangé ailleurs  
 49 Rue des Vinaigriers, 75010 - 01 40 37 16 21  
+  
+<a href="www.lecambodge.fr">Le Cambodge</a> - Cambodgien  
+10 Avenue Richerand - 75010 - 01 44 84 37 70  
+  
+<a href="https://www.tripadvisor.com/Restaurant_Review-g187147-d10072596-Reviews-Les_Arlots-Paris_Ile_de_France.html">Les Arlots</a> - Produits frais  
+136 Rue du Faubourg Poissonnière, 75010 - 01 42 82 92 01  
   
 <a href="http://lepetitcambodge.fr/">Le petit cambodge</a> - vietnamien  
 4 Rue Beaurepaire, 75010 - 01 44 91 92 04  
@@ -387,6 +390,9 @@ Cluny La, 21 Rue Saint-Jacques, 75005 Paris - 01 56 24 84 88
 <a href="http://www.restoaparis.com/fiche-restaurant-paris/chez-gladines.html">Chez Gladines</a> - Gastronomie Basques (15-25 euros)  
 30, rue des Cinq Diamants - 75013 - 01.45.80.70.10  
   
+<a href="http://www.butteauxthai.com/la-carte">La Butte aux Thaï</a> - Thaïlandais  
+43 Rue des cinq Diamants, 75013 Paris  
+  
 <a href="http://www.letempsdescerisescoop.com/">Le Temps des Cerises</a> - SCOP  
 18 rue de la buttes aux cailles - 75013 - 01.45.89.69.48  
   
@@ -437,6 +443,9 @@ Cluny La, 21 Rue Saint-Jacques, 75005 Paris - 01 56 24 84 88
   
 <a href="http://www.napoletano.fr/">Napoletano</a> - Cuisine et cave italienne  
 148, rue de Vaugirard - 75015 - 01.47.34.63.45  
+  
+<a href="http://www.napoletano.fr/">Polichinelle</a> - Buffet végétarien de haute qualité    
+51/53 Quai de Grenelle, 75015 - 01 87 44 69 14  
   
   
 **16e arrondissement**  
@@ -548,6 +557,9 @@ Cluny La, 21 Rue Saint-Jacques, 75005 Paris - 01 56 24 84 88
   
 <a href="https://www.tripadvisor.fr/Restaurant_Review-g187147-d3806008-Reviews-La_Petite_Fabrique-Paris_Ile_de_France.html">La Petite Fabrique</a> - Restaurant BIO  
 15 Rue des Vignoles, 75020 - 01 43 73 57 88  
+  
+<a href="https://www.les-canailles-menilmontant.com/en-salle/">Les Canailles Ménilmontant</a> - Restaurant Français  
+15 Rue des Panoyaux, 75020 - 01 43 58 45 45  
   
 <a href="http://mondesbohemes.com/">Les Mondes Bohèmes</a> - Terrasse, Cocktails, Vins, Plats de saison  
 31, rue des Vignoles - 75020 - 01.43.48.69.38  
