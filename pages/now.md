@@ -23,7 +23,10 @@ permalink: /now/
 <a href="https://senseandrespond.co/" target="nowbook">Sense and Respond, How Successful Organizations Listen to Customers and Create New Products Continuously (Jeff Gothelf, Josh Seiden)</a>
   
 <a href="https://www.babelio.com/livres/Ferris-Moi-ce-que-jaime-cest-les-monstres/1024075" target="nowbook2">Moi ce que j'aime, c'est les monstres (Emil Ferris)</a>
+
+<a href="https://www.goodreads.com/book/show/95734.Anger" target="nowbook3">Anger (Thich Nhat Hanh)</a>  
   
+    
 <a href="https://twitter.com/share?ref_src={{site.url}}{{page.url}}" 
    class="twitter-share-button" 
    data-show-count="false">
