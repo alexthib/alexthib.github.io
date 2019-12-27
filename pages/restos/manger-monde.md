@@ -28,6 +28,8 @@ ___
   
 <a href="/manger/canada">Canada</a>  
   
+<a href="/manger/croatie">Croatie</a>  
+  
 <div class="google-maps">
 	<iframe src="https://www.google.com/maps/d/embed?mid=10s1nd5St-ZlE4JKHPynjXrBXoFM&hl=fr"></iframe>
 </div>
