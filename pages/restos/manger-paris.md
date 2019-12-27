@@ -491,6 +491,9 @@ Cluny La, 21 Rue Saint-Jacques, 75005 Paris - 01 56 24 84 88
   
 <a href="http://www.lachurrasqueiria-paris.fr/">Churras Queiria</a> - Portugais  
 67 Rue des Dames, 75017 - 09 87 16 62 65  
+
+<a href="http://www.restojanna.fr/index.php/fr/">Janna</a> - Libannais  
+13 Rue Denis Poisson - 75017 - 01 44 09 03 30
   
 <a href="http://www.larecoleta.fr/">La Recoleta</a> - Argentin  
 119 Avenue de Villiers, 75017 - 01 42 67 90 95  
