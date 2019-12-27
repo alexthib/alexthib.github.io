@@ -22,11 +22,13 @@ permalink: /now/
   
 <a href="https://www.thierrysouccar.com/sport/livre/les-secrets-des-all-blacks-3767" target="nowbook">Les secrets des All Blacks, 15 leçons de leadership inspirées du succès de l'équipe la plus titrée du monde (James Kerr)</a>
   
-<a href="https://www.babelio.com/livres/Ferris-Moi-ce-que-jaime-cest-les-monstres/1024075" target="nowbook2">Moi ce que j'aime, c'est les monstres (Emil Ferris)</a>
-
 <a href="https://www.goodreads.com/book/show/311053.The_Wisdom_of_the_Enneagram" target="nowbook3">The Wisdom of the Enneagram: The Complete Guide to Psychological and Spiritual Growth for the Nine Personality Types (Don Richard Riso, Russ Hudson)</a>  
   
+<a href="https://www.goodreads.com/book/show/40265832-how-to-be-an-antiracist" target="nowbook4">How to Be an Antiracist (Ibram X. Kendi)</a>  
     
+<a href="https://www.babelio.com/livres/Ferris-Moi-ce-que-jaime-cest-les-monstres/1024075" target="nowbook2">Moi ce que j'aime, c'est les monstres (Emil Ferris)</a>
+  
+
 <a href="https://twitter.com/share?ref_src={{site.url}}{{page.url}}" 
    class="twitter-share-button" 
    data-show-count="false">
