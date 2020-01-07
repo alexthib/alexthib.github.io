@@ -207,25 +207,44 @@ Cluny La, 21 Rue Saint-Jacques, 75005 Paris - 01 56 24 84 88
 
 **6e arrondissement**  
   
-<a href="https://www.tripadvisor.fr/Restaurant_Review-g187147-d8380361-Reviews-Freddy_s-Paris_Ile_de_France.html">Freddy's</a> - Tapas gastronomiques Français  
+<a href="https://www.tripadvisor.fr/Restaurant_Review-g187147-d8380361-Reviews-Freddy_s-Paris_Ile_de_France.html">
+Freddy's
+</a> - Tapas gastronomiques Français  
 54 rue de Seine - 75006 - pas de téléphone  
   
-<a href="https://www.tripadvisor.fr/Restaurant_Review-g187147-d10044448-Reviews-Huguette_Bistro_de_la_Mer-Paris_Ile_de_France.html">Huguette, Bistro de la mer</a> - Fruits de mer  
+<a href="https://www.tripadvisor.fr/Restaurant_Review-g187147-d10044448-Reviews-Huguette_Bistro_de_la_Mer-Paris_Ile_de_France.html">
+Huguette, Bistro de la mer
+</a> - Fruits de mer  
 81, rue de Seine - 75006 - 01.43.25.00.28  
   
-<a href="http://www.resto-khaothai.com/">Khao Thaï</a> - Thaïlandais fort bon  
+<a href="http://www.resto-khaothai.com/">
+Khao Thaï
+</a> - Thaïlandais fort bon  
 13 Rue Dauphine, 75006 - 01.43.29.73.38  
   
-<a href="http://www.tripadvisor.fr/Restaurant_Review-g187147-d2135872-Reviews-L_Avant_Comptoir-Paris_Ile_de_France.html">L'Avant Comptoir</a> - Tapas à la française (essayer les calamars)  
+<a href="http://www.tripadvisor.fr/Restaurant_Review-g187147-d2135872-Reviews-L_Avant_Comptoir-Paris_Ile_de_France.html">
+L'Avant Comptoir
+</a> - Tapas à la française (essayer les calamars)  
 3, carrefour de l'odéan, 75006 - 01.44.27.07.50  
   
-<a href="https://www.restaurantniebe.com/">Niébé  </a>- Restaurant d'inspiration africaine, musique live  
+<a href="https://www.restaurantniebe.com/">
+Niébé
+</a> - Restaurant d'inspiration africaine, musique live  
 16 rue de la grande chaumière, 75006 - 01.43294331  
   
-<a href="https://www.tripadvisor.com/Restaurant_Review-g187147-d15042418-Reviews-Pastamore-Paris_Ile_de_France.html">Pastamore</a> - ristorante pasta fresca  
+<a href="https://www.tripadvisor.com/Restaurant_Review-g187147-d15042418-Reviews-Pastamore-Paris_Ile_de_France.html">
+Pastamore
+</a> - ristorante pasta fresca  
 37 Boulevard du Montparnasse, 75006 - 01 43 21 59 03  
   
-<a href="https://www.tripadvisor.com/Restaurant_Review-g187147-d2215426-Reviews-Yoom-Paris_Ile_de_France.html">YOOM</a> - Dim Sum  
+<a href="www.senseeat.fr">
+Sense.eat
+</a> - ristorante pasta fresca  
+39 Rue Mazarine - 75006 - 01 46 34 54 71  
+    
+<a href="https://www.tripadvisor.com/Restaurant_Review-g187147-d2215426-Reviews-Yoom-Paris_Ile_de_France.html">
+YOOM
+</a> - Dim Sum  
 5, rue Grégoire de Tours - 75006 - 01.43.54.94.56  
   
   
@@ -604,7 +623,7 @@ In Paradiso
 Kelbol
 </a> - Chinois, nouilles frâches bio  
 6 Rue de Bezons, Courbevoie - 92400 - 01 43 34 89 22  
-  
+  	
 <a href="https://www.tripadvisor.com/Restaurant_Review-g1055975-d1954593-Reviews-L_Atelier-Montreuil_Seine_Saint_Denis_Ile_de_France.html">
 L'Atelier
 </a> - Italien  
