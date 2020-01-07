@@ -576,7 +576,9 @@ Cluny La, 21 Rue Saint-Jacques, 75005 Paris - 01 56 24 84 88
   
 **Hors de Paris intramuros**  
   
-<a href="https://www.yelp.fr/biz/afa-aubervilliers">AFA </a>- Soupe Pho comme au Vietnam  
+<a href="https://www.yelp.fr/biz/afa-aubervilliers">
+AFA
+</a> - Soupe Pho comme au Vietnam  
 88 Avenue Victor Hugo, 93300 Aubervilliers - 01 48 34 71 77  
   
 <a href="http://www.autimbrepostecafe.com/">Au Timbre-Poste</a> - Resto-pub français  
@@ -588,13 +590,24 @@ Cluny La, 21 Rue Saint-Jacques, 75005 Paris - 01 56 24 84 88
 <a href="http://www.tripadvisor.fr/Restaurant_Review-g196560-d952675-Reviews-La_Peonia-Boulogne_Billancourt_Hauts_de_Seine_Ile_de_France.html">Caffè Peonia</a> - Cuisine Italienne  
 153, rue de Billancourt, Boulogne - 92100 - 01.46.04.65.23
   
-<a href="http://www.yelp.fr/biz/comptoir-de-sablonville-epices-riz-neuilly-sur-seine">Epices Riz</a> - Tapas y Pasta (excellents tapas et carpaccio)  
+<a href="http://www.yelp.fr/biz/comptoir-de-sablonville-epices-riz-neuilly-sur-seine">
+Epices Riz
+</a> - Tapas y Pasta (excellents tapas et carpaccio)  
 23, rue de Sablonville, Neuilly sur Seine - 92200 - 01.47.45.57.77  
   
-<a href="https://www.tripadvisor.com/Restaurant_Review-g196581-d12950009-Reviews-Restaurant_italien_In_Paradiso-Neuilly_sur_Seine_Hauts_de_Seine_Ile_de_France.html">In Paradiso</a> - La trattoria  
+<a href="https://www.tripadvisor.com/Restaurant_Review-g196581-d12950009-Reviews-Restaurant_italien_In_Paradiso-Neuilly_sur_Seine_Hauts_de_Seine_Ile_de_France.html">
+In Paradiso
+</a> - La trattoria  
 204 boulevard Bineau, Neuilly sur Seine - 92200 - 01.47.38.18.51  
   
-<a href="https://www.tripadvisor.com/Restaurant_Review-g1055975-d1954593-Reviews-L_Atelier-Montreuil_Seine_Saint_Denis_Ile_de_France.html">L'Atelier </a>- Italien  
+<a href="www.kelbol.fr">
+Kelbol
+</a> - Chinois, nouilles frâches bio  
+6 Rue de Bezons, Courbevoie - 92400 - 01 43 34 89 22  
+  
+<a href="https://www.tripadvisor.com/Restaurant_Review-g1055975-d1954593-Reviews-L_Atelier-Montreuil_Seine_Saint_Denis_Ile_de_France.html">
+L'Atelier
+</a> - Italien  
 60bis Rue Robespierre, 93100 Montreuil - 01 42 87 25 27  
   
 <a href="http://www.latabledemile.com/">La Table d'Emile</a> - Bar Restaurant français, cuisine du marché  
