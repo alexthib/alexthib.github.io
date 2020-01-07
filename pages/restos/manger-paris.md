@@ -262,40 +262,69 @@ YOOM
   
 **9e arrondissement**  
   
-<a href="https://lefooding.com/en/restaurants/restaurant-abri-soba-paris">Abri Soba</a> - très très bon japonais  
+<a href="https://lefooding.com/en/restaurants/restaurant-abri-soba-paris">
+Abri Soba
+</a> - très très bon japonais  
 10 Rue Saulnier, 75009 - 01 45 23 51 68  
   
-<a href="http://www.baritaliabrasserie.com/">Bar Italia Brasserie</a> - Italien  
+<a href="http://www.baritaliabrasserie.com/">
+Bar Italia Brasserie
+</a> - Italien  
 22 Rue Moncey - 75009 - 01 83 97 25 85  
   
-<a href="http://www.bourgogne-sud.fr/">Bourgogne Sud</a> - Français  
+<a href="https://www.tripadvisor.fr/Restaurant_Review-g187147-d779840-Reviews-Bien_Bien-Paris_Ile_de_France.html">
+Bien Bien
+</a> - Thaïlandais avec les épices à fond  
+30 bis rue Bergère - 75009 - 01.48.24.14.42  
+  
+<a href="http://www.bourgogne-sud.fr/">
+Bourgogne Sud
+</a> - Français  
 14 Rue de Clichy - 75009 - 01 48 74 51 27  
   
-<a href="http://www.comeprima.fr/">Come Prima</a> - Italien  
+<a href="http://www.comeprima.fr/">
+Come Prima
+</a> - Italien  
 33 rue Godot de Mauroy - 75009 - 01.47.42.23.37  
   
-<a href="http://www.restaurantcomptoircanailles.com/">Comptoir Canailles</a> - Viande macérée plusieurs mois  
+<a href="http://www.restaurantcomptoircanailles.com/">
+Comptoir Canailles
+</a> - Viande macérée plusieurs mois  
 47 Rue Rodier - 75009 - 01 53 20 95 56  
   
-<a href="http://www.gabriela.fr/">Gabriela</a> - brésilien, belle déco  
+<a href="http://www.gabriela.fr/">
+Gabriela
+</a> - brésilien, belle déco  
 3, rue Milton - 75019 - 01 42 80 28 14  
   
-<a href="http://www.lafourchette.com/2_restaurant/restaurant_Paris/restaurant_Ukraine/11120/">Kalinka</a> - Cuisine traditionnelle Ukrainienne et Russe  
+<a href="http://www.lafourchette.com/2_restaurant/restaurant_Paris/restaurant_Ukraine/11120/">
+Kalinka
+</a> - Cuisine traditionnelle Ukrainienne et Russe  
 17 rue de Trévise - 75009 - 01.45.23.46.55  
   
-<a href="http://www.lebongeorges.com/">Le bon George</a> - Bistrot  
+<a href="http://www.lebongeorges.com/">
+Le bon George
+</a> - Bistrot  
 45 Rue Saint-Georges, 75009 - 01 48 78 40 30  
   
-<a href="http://www.restaurant-legardetemps.fr/">Le Garde Temps</a> - Très bon français  
+<a href="http://www.restaurant-legardetemps.fr/">
+Le Garde Temps
+</a> - Très bon français  
 19bis Rue Pierre Fontaine - 75009 - 09 81 48 50 55  
   
-<a href="http://www.lesdiablesauthym.com/">Les Diables au Thym</a> - cuisine fine et française  
+<a href="http://www.lesdiablesauthym.com/">
+Les Diables au Thym
+</a> - cuisine fine et française  
 35 Rue Bergère, 75009 Paris - 01 47 70 77 09  
   
-<a href="http://www.pecopeco.fr/">Peco Peco</a> - tapas japonais  
+<a href="http://www.pecopeco.fr/">
+Peco Peco
+</a> - tapas japonais  
 47 Rue Jean-Baptiste Pigalle, 75009 - 01 53 16 19 84  
   
-<a href="http://www.trattoriaspaccanapoli.com/">Spaccanapoli</a> - Ristorante Italiano di Qualità  
+<a href="http://www.trattoriaspaccanapoli.com/">
+Spaccanapoli
+</a> - Ristorante Italiano di Qualità  
 46B rue de Clichy - 75009 - 01 42 82 02 47  
   
   
