@@ -369,9 +369,6 @@ Spaccanapoli
 <a href="https://www.tripadvisor.com/Restaurant_Review-g187147-d15180991-Reviews-Takaramono-Paris_Ile_de_France.html">Takaramono</a> - Bistrot japonais  
 3 Rue de la Fidélité, 75010 - 06 21 59 37 18  
   
-<a href="http://www.twostories.fr/">Two Stories</a> - Nouvelle Orléans (NOLA)  
-72, Quai de Jemmapes - 75010 - 01 53 16 17 88  
-
 <a href="https://www.tripadvisor.com/Restaurant_Review-g187147-d13430994-Reviews-Yun-Paris_Ile_de_France.html">Yün Bistrot</a> - Franco-Cantonais et Microbrasserie  
 96 Rue d'Hauteville, 75010 - 09 81 99 84 81  
   
