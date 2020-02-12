@@ -45,28 +45,49 @@ Disponible sur une google map : <a href="https://www.google.com/maps/d/u/0/viewe
 **2e arrondissement**  
   
 
-<a href="http://www.bissac.fr/">Bissac</a> - Table Gourmande  
+<a href="http://www.bissac.fr/">
+Bissac
+</a> - Table Gourmande  
 10 Rue de la Bourse - 75002 - 01 49 27 01 90  
 
-<a href="https://www.facebook.com/ryukishinparis/">Bistro Ramen Ryukishin</a> - Ramen  
+<a href="https://www.facebook.com/ryukishinparis/">
+Bistro Ramen Ryukishin
+</a> - Ramen  
 59 Rue de Richelieu, 75002 - 06 16 91 88 15  
   
-<a href="http://www.bistrocaminito.com/">Caminito</a> - Bistro argentin  
+<a href="http://www.bistrocaminito.com/">
+Caminito
+</a> - Bistro argentin  
 46 rue de Cléry - 75002 - 09.73.22.60.74  
   
-<a href="https://www.tripadvisor.com/Restaurant_Review-g187147-d13509340-Reviews-Chez_Toye-Paris_Ile_de_France.html">Chez Toye</a> - Chinois  
+<a href="https://www.tripadvisor.com/Restaurant_Review-g187147-d13509340-Reviews-Chez_Toye-Paris_Ile_de_France.html">
+Chez Toye
+</a> - Chinois  
 39 Rue Montmartre - 75002 - 01 73 75 61 41  
   
-<a href="http://www.circonstances.fr/">Circonstances</a> - Bar et restaurant français  
+<a href="http://www.circonstances.fr/">
+Circonstances
+</a> - Bar et restaurant français  
 174 rue Montmartre - 75002 - 01.42.36.17.05  
   
-<a href="http://lecoinstotvino.com/">Coinstot Vino</a> - Bistrot dans un beau cadre de passage parisien  
+<a href="http://lecoinstotvino.com/">
+Coinstot Vino
+</a> - Bistrot dans un beau cadre de passage parisien  
 26bis Passage des Panoramas, 75002 01 44 82 08 54  
 
-<a href="http://www.daroco.fr/">Daroco</a> - Italien et pizzas  
+<a href="http://www.daroco.fr/">
+Daroco
+</a> - Italien et pizzas  
 6 Rue Vivienne - 75002 - 01 42 21 93 71  
   
-<a href="https://www.tripadvisor.fr/Restaurant_Review-g187147-d919549-Reviews-Guibine-Paris_Ile_de_France.html">Guibine</a> - Coréen  
+<a href="www.foodi-jia-ba-buay.fr">
+Foodi
+</a> - Restaurant Asiatique 
+2 rue du Nil - 75002 - 01 45 08 48 28   
+  
+<a href="https://www.tripadvisor.fr/Restaurant_Review-g187147-d919549-Reviews-Guibine-Paris_Ile_de_France.html">
+Guibine
+</a> - Coréen  
 44, rue sainte-anne - 75002 - 01.40.20.45.83  
   
 <a href="https://www.tripadvisor.fr/Restaurant_Review-g187147-d828293-Reviews-Hangari-Paris_Ile_de_France.html">Hang-A-Ri</a> - Restaurant Coréen  
