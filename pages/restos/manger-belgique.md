@@ -15,16 +15,27 @@ ___
   
 **Brugge**  
   
-<a href="http://www.tomsdiner.be/">Tom's Dinner</a> - Cuisine recherchée, fine, bon vin  
+<a href="http://www.tomsdiner.be/">
+Tom's Dinner
+</a> - Cuisine recherchée, fine, bon vin  
 West-Gistelhof 23, 8000 Brugge, Belgique - +32 50 33 33 82  
   
 
 **Bruxelles**  
   
-<a href="http://www.lesbrassins.com/">Les Brassins</a> - Tous les jours, 12h à 24h, carbonnade de la mort qui tue, bières belges, réserver si possible 1 semaine avant...  
+<a href="http://www.lesbrassins.com/">
+Les Brassins
+</a> - Tous les jours, 12h à 24h, carbonnade de la mort qui tue, bières belges, réserver si possible 1 semaine avant...  
 36 rue Keyenveld - 1050 - Bruxelles - 02 512 69 99  
-
-<a href="http://www.tripadvisor.fr/Restaurant_Review-g188644-d1069532-Reviews-Reve_D_asie-Brussels.html">Rêve d'Asie</a> - Cuisine Thaï et Viet  
+  
+<a href="http://www.pholaumi.be">
+Pho Lau Mi
+</a> - Vietnamien  
+Rue Dejoncker 26, 1060 Saint-Gilles, Belgique - +32 2 539 37 63  
+  
+<a href="http://www.tripadvisor.fr/Restaurant_Review-g188644-d1069532-Reviews-Reve_D_asie-Brussels.html">
+Rêve d'Asie
+</a> - Cuisine Thaï et Viet  
 Rue Jules Van Praet 19 - 1000 - Bruxelles - 02 502 48 28  
   
 ___
