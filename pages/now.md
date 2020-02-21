@@ -14,15 +14,15 @@ permalink: /now/
   
 <a href="https://pyxis-tech.com/fr/a-propos-de-oddes-conseil/" target="nowwork">Je travaille chez ODDES à Paris</a>
   
-<a href="https://les-bucherons-de-courbeach.sporteasy.net/" target="nowsport1">Je fais partie du club de hockey sur glace les bûcherons de Courbevoie</a>
-  
 <a href="http://www.weopenspace.com" target="nowwos">J'organise des open space chez Agorapulse un samedi par mois !</a>
+
+<a href="https://www.meetup.com/fr-FR/Evoluer-dans-un-monde-complexe/" target="_complexe">Je coanime le meetup 'Evoluer dans un monde complexe' avec mon collègue Christian !</a>
   
 <h2>Je lis</h2>
   
-<a href="https://www.thierrysouccar.com/sport/livre/les-secrets-des-all-blacks-3767" target="nowbook">Les secrets des All Blacks, 15 leçons de leadership inspirées du succès de l'équipe la plus titrée du monde (James Kerr)</a>
+<a href="https://livre.fnac.com/a9617564/Jacques-Antoine-Malarewicz-Gerer-les-conflits-au-travail-2e-edition" target="nowbook">Gerer les conflits au travail (Jacques-Antoine Malarewicz)</a>
   
-<a href="https://www.goodreads.com/book/show/311053.The_Wisdom_of_the_Enneagram" target="nowbook3">The Wisdom of the Enneagram: The Complete Guide to Psychological and Spiritual Growth for the Nine Personality Types (Don Richard Riso, Russ Hudson)</a>  
+<a href="https://www.goodreads.com/book/show/6278270-the-principles-of-product-development-flow" target="nowbook3">The Principles of Product Development Flow: Second Generation Lean Product Development (Donald G. Reinertsen)</a>  
   
 <a href="https://www.goodreads.com/book/show/40265832-how-to-be-an-antiracist" target="nowbook4">How to Be an Antiracist (Ibram X. Kendi)</a>  
     
