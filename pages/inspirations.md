@@ -15,7 +15,7 @@ Quelles ont été mes **inspirations** pour mon intérêt dans le monde de l'agi
 - <a href="http://www.andwhatif.fr/" target="_dragos">Dragos Dreptate</a> (impact mapping et organisation d'événements)
 - <a href="https://github.com/egaillot" target="_emmanuelgaillot">Emmanuel Gaillot</a> (open space, introspection et méditation)
 - <a href="https://liberteetcie.com/" target="_isaacgetz">Isaac Getz</a> (management 3.0 et confiance)
-- <a href="https://http://www.malarewicz.fr/" target="_jamalarew">Jacques Antoine Malarewicz</a> (approche systémique)
+- <a href="http://www.malarewicz.fr/" target="_jamalarew">Jacques Antoine Malarewicz</a> (approche systémique)
 - <a href="https://medium.com/@johnpcutler" target="_dragos">John Cutler</a> (produit et savoir faire des paris)
 - <a href="http://inquiryinstitute.com/blog/" target="_marilee">Marilee Adams</a> (questions ouvertes et management)
 - <a href="https://pablopernot.fr/" target="_pablo">Pablo Pernot</a> (coaching agile, changement des organisations, rock and roll)
