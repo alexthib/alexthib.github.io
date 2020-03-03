@@ -15,6 +15,7 @@ Quelles ont été mes **inspirations** pour mon intérêt dans le monde de l'agi
 - <a href="http://www.andwhatif.fr/" target="_dragos">Dragos Dreptate</a> (impact mapping et organisation d'événements)
 - <a href="https://github.com/egaillot" target="_emmanuelgaillot">Emmanuel Gaillot</a> (open space, introspection et méditation)
 - <a href="https://liberteetcie.com/" target="_isaacgetz">Isaac Getz</a> (management 3.0 et confiance)
+- <a href="https://http://www.malarewicz.fr/" target="_jamalarew">Jacques Antoine Malarewicz</a> (approche systémique)
 - <a href="https://medium.com/@johnpcutler" target="_dragos">John Cutler</a> (produit et savoir faire des paris)
 - <a href="http://inquiryinstitute.com/blog/" target="_marilee">Marilee Adams</a> (questions ouvertes et management)
 - <a href="https://pablopernot.fr/" target="_pablo">Pablo Pernot</a> (coaching agile, changement des organisations, rock and roll)
@@ -39,6 +40,7 @@ Quelles ont été mes **inspirations** pour mon intérêt dans le monde de l'agi
 - [Change Your Questions, Change Your Life: 12 Powerful Tools for Leadership, Coaching, and Life](https://www.amazon.fr/Change-Your-Questions-Life-Leadership/dp/162656633X) (Marilee Adams Ph.D.)
 - [Coaching Plain & Simple: Solution-focused Brief Coaching Essentials](https://www.amazon.fr/Coaching-Plain-Simple-Solution-focused-Essentials-ebook/dp/B01LWYMF0E) (Kirsten Dierolf, Daniel Meier, Peter Szabó)
 - [Drive](https://www.amazon.fr/Drive-Surprising-Truth-About-Motivates/dp/1594484805) (Daniel H. Pink)
+- [Gérer les conflits au travail : La médiation systémique en entreprise](https://www.babelio.com/livres/Malarewicz-Gerer-les-conflits-au-travail--La-mediation-syste/242714) (Jacques-Antoine Malarewicz)	
 - [Getting Things Done: The Art of Stress-Free Productivity](https://www.amazon.fr/gp/product/0143126563) (David Allen)	
 - [Joy Inc.](https://www.amazon.fr/Joy-Inc-Built-Workplace-People/dp/1591847125) (Richard Sheridan) : [Mon article](http://enjoyagile.com/bouquin/joy-inc-notes-lecture/)
 - [La communication non violente au quotidien](https://www.amazon.fr/communication-non-violente-quotidien/dp/288911905X) (Marshall B. Rosenberg)
@@ -55,7 +57,7 @@ Quelles ont été mes **inspirations** pour mon intérêt dans le monde de l'agi
 
 **Ma référence personnelle**
 
-<a href="https://drive.google.com/open?id=0BxfOA1uWnfpyQktvR0hYRnFLakU" target="_googledrivealex">Rendez-vous sur Google Drive pour plus d'inspirations</a>
+<a href="https://drive.google.com/open?id=0BxfOA1uWnfpyQktvR0hYRnFLakU" target="_googledrivealex">Rendez-vous sur Google Drive pour plus d'inspirations (ça vous prend un compte Google)</a>  
 
 <a href="https://twitter.com/share?ref_src={{site.url}}{{page.url}}" 
    class="twitter-share-button" 
