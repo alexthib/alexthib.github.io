@@ -4,7 +4,7 @@ title: Now - Alexandre Thibault
 permalink: /now/
 ---
 <a href="/a-propos">
-	<img src="/images/alexthib-I-am-an-agile-coach-squared.jpg" class="img-floating-left-small" />
+	<img src="/images/Alexandre_Thibault_profil.jpg" class="img-floating-left-small" />
 </a>
   
 <a href="/manger/paris">J'habite en région parisienne et j'adore les restaurants</a>
@@ -16,7 +16,9 @@ permalink: /now/
   
 <a href="http://www.weopenspace.com" target="nowwos">J'organise des open space chez Agorapulse un samedi par mois !</a>
 
-<a href="https://www.meetup.com/fr-FR/Evoluer-dans-un-monde-complexe/" target="_complexe">Je coanime le meetup 'Evoluer dans un monde complexe' avec mon collègue Christian !</a>
+<a href="https://www.meetup.com/fr-FR/Evoluer-dans-un-monde-complexe/" target="_complexe">Je coanime le meetup 'Evoluer dans un monde complexe' avec mon collègue Christian !</a>  
+  
+<a href="https://www.meetup.com/fr-FR/Meetup-Coaching-professionnel-Paris/events/269127292/" target="_coaching_tools">Je coanime le meetup 'A la découverte du double quadrant d'Ofman' avec mes potes Caroline et Juliens !</a>    
   
 <h2>Je lis</h2>
   
@@ -26,9 +28,10 @@ permalink: /now/
   
 <a href="https://www.goodreads.com/book/show/40265832-how-to-be-an-antiracist" target="nowbook4">How to Be an Antiracist (Ibram X. Kendi)</a>  
     
-<a href="https://www.babelio.com/livres/Ferris-Moi-ce-que-jaime-cest-les-monstres/1024075" target="nowbook2">Moi ce que j'aime, c'est les monstres (Emil Ferris)</a>
-  
+<a href="https://www.babelio.com/livres/Ferris-Moi-ce-que-jaime-cest-les-monstres/1024075" target="nowbook2">Moi ce que j'aime, c'est les monstres (Emil Ferris)</a>  
 
+<a href="http://www.babelio.com/livres/Debord-La-societe-du-spectacle/1788" target="nowbook6">La société du spectacle (Guy Debord)</a>  
+  
 <a href="https://twitter.com/share?ref_src={{site.url}}{{page.url}}" 
    class="twitter-share-button" 
    data-show-count="false">
