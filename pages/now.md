@@ -12,7 +12,7 @@ permalink: /now/
 <a href="https://www.linkedin.com/in/alexthib?locale=fr_FR&trk=profile_view_lang_sel_click" 
  target="linkedin">Alexandre Thibault - Mon LinkedIn</a>
   
-<a href="https://pyxis-tech.com/fr/a-propos-de-oddes-conseil/" target="nowwork">Je travaille chez ODDES à Paris</a>
+<a href="http://www.oddes-pyxis.com/alexandre-thibault/" target="nowwork">Je travaille chez ODDES à Paris</a>
   
 <a href="http://www.weopenspace.com" target="nowwos">J'organise des open space chez Agorapulse un samedi par mois !</a>
 
