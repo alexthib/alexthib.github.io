@@ -9,8 +9,8 @@ Quelles ont été mes **inspirations** pour mon intérêt dans le monde de l'agi
 
 **Personnes qui m'inspirent et leur blog**
 
-- <a href="https://doubleboucle.fr/" target="_alf">Alexandre Martinez</a> (Coaching perso, Wardley Maps)
-- <a href="https://pyxis-tech.com/fr/equipe/christian-lapointe/" target="_christian">Christian Lapointe</a> (Ecoute active, Panarchy)
+- <a href="https://medium.com/@alexandre.martinez" target="_alf">Alexandre Martinez</a> (Coaching perso, Wardley Maps)
+- <a href="http://www.oddes-pyxis.com/author/christian-lapointe/" target="_christian">Christian Lapointe</a> (Ecoute active, Panarchy)
 - <a href="https://www.danpink.com/resources/" target="_danpink">Daniel Pink</a> (la vérité sur ce qui nous motive)
 - <a href="http://www.andwhatif.fr/" target="_dragos">Dragos Dreptate</a> (impact mapping et organisation d'événements)
 - <a href="https://github.com/egaillot" target="_emmanuelgaillot">Emmanuel Gaillot</a> (open space, introspection et méditation)
@@ -22,7 +22,7 @@ Quelles ont été mes **inspirations** pour mon intérêt dans le monde de l'agi
 - <a href="https://seths.blog/" target="_seth">Seth Godin</a> (marketing et raconter des histoires)
 - <a href="https://medium.com/@ygrenzinger" target="_yannickg">Yannick Grenzinger</a> (palo alto et paradoxes)
 
-**Podcasts que j'écoutent régulièrement**
+**Podcasts que j'écoute régulièrement**
 
 <a href="/podcasts/">Podcasts, ou baladodiffusion pour les Québécois</a>
 
@@ -34,7 +34,7 @@ Quelles ont été mes **inspirations** pour mon intérêt dans le monde de l'agi
 - <a href="https://www.ted.com/talks/margaret_heffernan_why_it_s_time_to_forget_the_pecking_order_at_work" target="_socialcapital">Social Capital</a>
 - <a href="https://vimeo.com/157173877" target="_managing-for-happiness">Managing for Happiness</a>
 
-**Bouqins que je recommande**
+**Bouquins que je recommande**
 
 - [Agile Retrospectives - Making Good Teams Great](https://www.amazon.fr/gp/product/0977616649/) (Esther Derby)
 - [Change Your Questions, Change Your Life: 12 Powerful Tools for Leadership, Coaching, and Life](https://www.amazon.fr/Change-Your-Questions-Life-Leadership/dp/162656633X) (Marilee Adams Ph.D.)
@@ -57,7 +57,7 @@ Quelles ont été mes **inspirations** pour mon intérêt dans le monde de l'agi
 
 **Ma référence personnelle**
 
-<a href="https://drive.google.com/open?id=0BxfOA1uWnfpyQktvR0hYRnFLakU" target="_googledrivealex">Rendez-vous sur Google Drive pour plus d'inspirations (ça vous prend un compte Google)</a>  
+<a href="https://drive.google.com/open?id=0BxfOA1uWnfpyQktvR0hYRnFLakU" target="_googledrivealex">Rendez-vous sur Google Drive pour plus d'inspirations (ça vous prend un compte Google cependant)</a>  
 
 <a href="https://twitter.com/share?ref_src={{site.url}}{{page.url}}" 
    class="twitter-share-button" 
