@@ -18,23 +18,23 @@ permalink: /now/
 
 <a href="https://www.meetup.com/fr-FR/Evoluer-dans-un-monde-complexe/" target="_complexe">Je coanime le meetup 'Evoluer dans un monde complexe' avec mon collègue Christian !</a>  
   
-<a href="https://www.meetup.com/fr-FR/Meetup-Coaching-professionnel-Paris/events/269127292/" target="_coaching_tools">Je coanime le meetup 'A la découverte du double quadrant d'Ofman' avec mes potes Caroline et Juliens !</a>    
+<h2>Je lis</h2>  
   
-<h2>Je lis</h2>
+<a href="https://www.collaborationsuperpowers.com/book/" target="nowbook1">Work Together Anywhere: A Handbook on Working Remotely—Successfully—for Individuals, Teams, and Managers (Lisette Sutherland)</a>
   
-<a href="https://livre.fnac.com/a9617564/Jacques-Antoine-Malarewicz-Gerer-les-conflits-au-travail-2e-edition" target="nowbook">Gerer les conflits au travail (Jacques-Antoine Malarewicz)</a>
+<a href="https://www.babelio.com/livres/Rufin-Rouge-Bresil/189587" target="nowbook2">Rouge Brésil (Jean-Christophe Rufin)</a>  
   
-<a href="https://www.goodreads.com/book/show/6278270-the-principles-of-product-development-flow" target="nowbook3">The Principles of Product Development Flow: Second Generation Lean Product Development (Donald G. Reinertsen)</a>  
-  
-<a href="https://www.goodreads.com/book/show/40265832-how-to-be-an-antiracist" target="nowbook4">How to Be an Antiracist (Ibram X. Kendi)</a>  
+<a href="https://www.goodreads.com/book/show/9762.Loving_What_Is" target="nowbook3">Loving What Is: Four Questions That Can Change Your Life (Byron Katie)</a>  
     
-<a href="https://www.babelio.com/livres/Ferris-Moi-ce-que-jaime-cest-les-monstres/1024075" target="nowbook2">Moi ce que j'aime, c'est les monstres (Emil Ferris)</a>  
+<a href="https://plumvillage.org/articles/news/work-how-to-find-joy-and-meaning-in-each-hour-of-the-day/" target="nowbook4">Work: How to Find Joy and Meaning in Each Hour of the Day (Thich Nhat Hanh)</a>  
+  
+<a href="https://www.goodreads.com/book/show/31750503-what-does-it-sound-like-when-you-change-your-mind" target="nowbook5">What Does it Sound Like When You Change Your Mind? (Seth Godin)</a>  
 
-<a href="http://www.babelio.com/livres/Debord-La-societe-du-spectacle/1788" target="nowbook6">La société du spectacle (Guy Debord)</a>  
+<a href="https://www.cultura.com/il-drappo-scomparso-9788416057016.html" target="nowbook6">Il Drappo Scomparso (Slawka G. Scarso)</a>  
   
 <a href="https://twitter.com/share?ref_src={{site.url}}{{page.url}}" 
    class="twitter-share-button" 
    data-show-count="false">
 	Tweet
 </a>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>  
