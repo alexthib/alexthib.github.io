@@ -26,7 +26,7 @@ permalink: /now/
   
 <a href="https://www.goodreads.com/book/show/9762.Loving_What_Is" target="nowbook3">Loving What Is: Four Questions That Can Change Your Life (Byron Katie)</a>  
     
-<a href="https://plumvillage.org/articles/news/work-how-to-find-joy-and-meaning-in-each-hour-of-the-day/" target="nowbook4">Work: How to Find Joy and Meaning in Each Hour of the Day (Thich Nhat Hanh)</a>  
+<a href="https://www.babelio.com/livres/Jackson-Un-coach-onze-titres-NBA/677447" target="nowbook4">Un coach, onze titres NBA (Phil Jackson)</a>  
   
 <a href="https://www.goodreads.com/book/show/31750503-what-does-it-sound-like-when-you-change-your-mind" target="nowbook5">What Does it Sound Like When You Change Your Mind? (Seth Godin)</a>  
 
