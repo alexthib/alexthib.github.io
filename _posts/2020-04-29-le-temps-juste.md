@@ -73,7 +73,5 @@ Ce qu’on peut en retirer : si on rythme le travail du groupe, tout en respecta
 Pour terminer, plusieurs boîtes apprennent de nouvelles pratiques avec le chaos du confinement. A quoi pourrait ressembler votre contexte avec les nouveaux apprentissages du télétravail ? Qu’est-ce que vous avez envie de garder ? Modifier ? Jeter ? Je vous souhaite une belle méditation !  
   
 D'ici là, n'oubliez pas, **Rhythm is a dancer!**  
-<div class="floating-left">
-	<iframe width="300" height="180" src="https://www.youtube.com/watch?v=WMPM1q_Uyxc" frameborder="0" allowfullscreen></iframe>
-</div>  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WMPM1q_Uyxc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
   
