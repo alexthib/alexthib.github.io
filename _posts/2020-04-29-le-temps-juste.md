@@ -12,7 +12,7 @@ En lisant <a href="http://pierremonizbarreto.wixsite.com/slowbusiness" target="_
 
 A la page 53 du livre, on peut y lire :
 
-> « Le rythme est partout et en tout : dans toute activité, un rythme s’instaure et se répète, et c’est ainsi que surgit le temps. L’homme est à la fois : Créateur de rythmes; Amené à se soumettre à des rythmes créés par d’autres (exogènes) ; Habité par son propre rythme (endogène), qu’il s’agit de reconnaître et valoriser. Et il doit constamment travailler à l’harmonie de ces trois dimensions. »
+« Le rythme est partout et en tout : dans toute activité, un rythme s’instaure et se répète, et c’est ainsi que surgit le temps. L’homme est à la fois : Créateur de rythmes; Amené à se soumettre à des rythmes créés par d’autres (exogènes) ; Habité par son propre rythme (endogène), qu’il s’agit de reconnaître et valoriser. Et il doit constamment travailler à l’harmonie de ces trois dimensions. »
 
 *Jacques Porte*
 
@@ -20,7 +20,7 @@ A la page 53 du livre, on peut y lire :
   
 Le chapitre dans son ensemble est passionnant. Il a valu à lui seul l’achat du livre pour moi. Ce passage m’a rappelé que je suggère fréquemment de mettre en place un **tableau de cadence** pour la gouvernance de projet chez les clients que j’accompagne. On essaie d’y lister tous les rituels, meetings, comités et événements annuels qui gravitent autour d’une équipe.
 
-<a href="/images/posts/temps-juste-2.gif" target="_cadence-board"><img src="/images/posts/temps-juste-2" class="img-floating-left-large" alt="Pyramide 5 dysfunctions of a team" /></a>
+<a href="/images/posts/temps-juste-2.png" target="_cadence-board"><img src="/images/posts/temps-juste-2.png" class="img-floating-left-large" alt="Cadence Board" /></a>
 
 C’est très ardu de les mettre en place, et je comprends mieux pourquoi aujourd’hui. On ne respecte pas le rythme de chaque individu d’un groupe par notre peur de ne pas optimiser le temps de travail. On préfère surcharger la barque des équipes, ne laissant pas de liberté aux individus de trouver leur cadence vitale.
 
