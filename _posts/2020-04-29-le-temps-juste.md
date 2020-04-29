@@ -8,7 +8,7 @@ categories: organisation
 
 Article publié à l'origine sur <a href="http://www.oddes-pyxis.com/le-temps-juste-tempo-giusto/" target="_oddes_pyxis">Oddes Pyxis</a>.
 
-En lisant <>a href="http://pierremonizbarreto.wixsite.com/slowbusiness" target="_slowbiz"Slow business</a> de <a href="https://www.linkedin.com/in/pierre-moniz-barreto-8bb1218b/" target="_pmb">Pierre Moniz-Barreto</a>, j’étais très intéressé par le concept de rythme, de cadence, que j’utilise souvent chez mes clients.
+En lisant <a href="http://pierremonizbarreto.wixsite.com/slowbusiness" target="_slowbiz">Slow business</a> de <a href="https://www.linkedin.com/in/pierre-moniz-barreto-8bb1218b/" target="_pmb">Pierre Moniz-Barreto</a>, j’étais très intéressé par le concept de rythme, de cadence, que j’utilise souvent chez mes clients.
 
 A la page 53 du livre, on peut y lire :
 
