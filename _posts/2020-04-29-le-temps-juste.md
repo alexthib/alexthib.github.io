@@ -59,8 +59,8 @@ Dans une autre vie, je faisais partie des fondateurs d’une startup entre 2000 
   
 **07h30-10h00** : heure d’arrivée en fonction du rythme de l’individu, petit déjeuner, l’équivalent d’un « <a href="https://coach-agile.com/2015/01/daily-meeting-les-3-questions/" target="_daily">daily standup meeting</a> ».  
 **10h00-12h00** : focus sur son ordinateur, silence complet dans le bureau, on travaille sur ce qu’on a décidé pour la journée en concentrant son énergie.  
-**12h00-14h00** : déjeuner, convivialité, sport (il y avait une douche), sieste (il y avait des canapés), travail si on veut terminer plus tôt le soir, mais on sait qu’il y aura un peu plus de bruit dans les bureaux, sans que ça soit la cour d’école.
-**14h00-16h00** : séance de focus à son ordinateur à nouveau, toujours concentré sur ce qu’on voulait accomplir dans la journée.
+**12h00-14h00** : déjeuner, convivialité, sport (il y avait une douche), sieste (il y avait des canapés), travail si on veut terminer plus tôt le soir, mais on sait qu’il y aura un peu plus de bruit dans les bureaux, sans que ça soit la cour d’école.  
+**14h00-16h00** : séance de focus à son ordinateur à nouveau, toujours concentré sur ce qu’on voulait accomplir dans la journée.  
 **16h00-17h00** : réunions de conception au tableau ou travail en pairs pour compléter le travail de la journée, on teste ce qu’on veut mettre en commun dans le code.  
 **17h00-18h00** : au besoin on fait les annonces des co-fondateurs niveau business, organisation, si quelqu’un doit absolument partir, on remet l’annonce au lendemain matin avant 10h00.  
 **18h00-19h00** : on part, ou on sort les bières, les jus et les chips, on partage des vidéos (c’était les débuts des partages intempestifs des mêmes et autres drôleries), on met de la musique sur Winamp, etc. C’est la fin officielle de la journée.  
