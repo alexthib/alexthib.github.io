@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "C'est extra !"
+title:  "Le temps juste (tempo giusto)"
 categories: organisation
 ---
 
