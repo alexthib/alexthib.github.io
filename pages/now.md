@@ -5,12 +5,16 @@ permalink: /now/
 ---
 <a href="/a-propos">
 	<img src="/images/Alexandre_Thibault_profil.jpg" class="img-floating-left-small" />
-</a>
+</a>  
+  
+<h1>Je vis</h1>  
   
 <a href="/manger/paris">
 	J'habite en région parisienne et j'adore les restaurants
 </a>
-  
+
+<h1>Je travaille</h1>   
+
 <a href="https://www.linkedin.com/in/alexthib?locale=fr_FR&trk=profile_view_lang_sel_click" target="now_linkedin">
  Alexandre Thibault - Mon LinkedIn
 </a>
@@ -26,7 +30,9 @@ permalink: /now/
 <a href="https://www.meetup.com/fr-FR/Evoluer-dans-un-monde-complexe/" target="_now_complexe">
 	Je coanime le meetup 'Evoluer dans un monde complexe' avec mon collègue Christian !
 </a>  
-
+  
+<h1>Je m'amuse</h1>  
+  
 <a href="https://podcast.ausha.co/les-discussions-de-oddes" target="_podcast_oddes">
 	J'ai appris à monter des podcast, le premier s'intitule Les discussions de ODDES
 </a>  
@@ -39,9 +45,9 @@ permalink: /now/
 	Je suis un parcours Immunity To Change avec Trémeur, copain du réseau Pyxis
 </a>  
   
-<h2>Je lis</h2>  
+<h1>Je lis</h1>  
   
-<a href="https://www.ibramxkendi.com/how-to-be-an-antiracist-1" target="nowbook1">
+<a href="https://www.ibramxkendi.com/how-to-be-an-antiracist-1" target="nowbook1">  
 	How To Be An Antiracist (Ibram X. Kendi)
 </a>  
 
