@@ -17,7 +17,7 @@ permalink: /now/
   
 <a href="http://www.oddes-pyxis.com/alexandre-thibault/" target="_now_work">
 	Je travaille chez ODDES à Paris
-</a>
+</a>  
   
 <a href="http://www.weopenspace.com" target="_now_wos">
 	J'organise des open space chez Agorapulse un samedi par mois !
@@ -26,11 +26,23 @@ permalink: /now/
 <a href="https://www.meetup.com/fr-FR/Evoluer-dans-un-monde-complexe/" target="_now_complexe">
 	Je coanime le meetup 'Evoluer dans un monde complexe' avec mon collègue Christian !
 </a>  
+
+<a href="https://podcast.ausha.co/les-discussions-de-oddes" target="_podcast_oddes">
+	J'ai appris à monter des podcast, le premier s'intitule Les discussions de ODDES
+</a>  
+  
+<a href="https://twitter.com/AgileConfit" target="_agileconfit">
+	Je dessine un comic strip que j'ai appelé Agile Confit, et je partage le tout sur Twitter
+</a>
+  
+<a href="https://cchange.no/resources/immunity-to-change/" target="_itc">
+	Je suis un parcours Immunity To Change avec Trémeur, copain du réseau Pyxis
+</a>  
   
 <h2>Je lis</h2>  
   
-<a href="https://www.goodreads.com/book/show/9762.Loving_What_Is" target="nowbook1">
-	Loving What Is: Four Questions That Can Change Your Life (Byron Katie)
+<a href="https://www.ibramxkendi.com/how-to-be-an-antiracist-1" target="nowbook1">
+	How To Be An Antiracist (Ibram X. Kendi)
 </a>  
 
 <a href="https://www.babelio.com/livres/Jackson-Un-coach-onze-titres-NBA/677447" target="nowbook2">Un coach, onze titres NBA (Phil Jackson)</a>  
@@ -43,8 +55,8 @@ permalink: /now/
 	What Does it Sound Like When You Change Your Mind? (Seth Godin)
 </a>  
   
-<a href="https://www.babelio.com/livres/Rufin-Rouge-Bresil/189587" target="nowbook5">
-	Rouge Brésil (Jean-Christophe Rufin)
+<a href="https://livre.fnac.com/a9630212/Paula-Hawkins-La-Fille-du-train" target="nowbook5">
+	La fille du train (Paula Hawkins)
 </a>  
 
 <a href="https://www.cultura.com/bilingue-francais-italien-dix-auteurs-classiques-italiens-dieci-autori-italiani-classici-tea-9782823821383.html" target="nowbook6">
