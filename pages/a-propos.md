@@ -63,9 +63,24 @@ Lorsqu’on arrive dans un nouveau contexte client, détecter le plus vite possi
    Slack
 </a>
 
+<a href="https://podcast.ausha.co/les-discussions-de-oddes" 
+  target="_lesdiscussionsdeoddes">
+   Podcast - Les discussions de ODDES
+</a>
+
+<a href="https://www.instagram.com/agileconfit/"
+  target="_instagram">
+   Instagram (Agile Confit)
+</a>
+
+<a href="https://twitter.com/AgileConfit" 
+ target="_twitter_agile_confit">
+   Twitter (Agile Confit)
+</a>
+
 <a href="https://twitter.com/weopenspace" 
- target="twitter">
-   Twitter
+ target="twitter_weopenspace">
+   Twitter (We Open Space)
 </a>
 
 <a href="http://www.weopenspace.com" 
@@ -75,7 +90,7 @@ Lorsqu’on arrive dans un nouveau contexte client, détecter le plus vite possi
 
 <a href="/manger/paris">
   Ma liste de restaurants à Paris
-</a>
+</a>  
 
 <a href="/manger/monde">
   Ma liste de restaurants dans le reste du monde
