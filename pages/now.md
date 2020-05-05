@@ -52,10 +52,6 @@ permalink: /now/
 </a>  
 
 <a href="https://www.babelio.com/livres/Jackson-Un-coach-onze-titres-NBA/677447" target="nowbook2">Un coach, onze titres NBA (Phil Jackson)</a>  
-
-<a href="https://www.collaborationsuperpowers.com/book/" target="nowbook3">
-	Work Together Anywhere: A Handbook on Working Remotely—Successfully—for Individuals, Teams, and Managers (Lisette Sutherland)
-</a>  
   
 <a href="https://www.goodreads.com/book/show/31750503-what-does-it-sound-like-when-you-change-your-mind" target="nowbook4">
 	What Does it Sound Like When You Change Your Mind? (Seth Godin)
