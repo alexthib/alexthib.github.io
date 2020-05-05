@@ -14,6 +14,7 @@ Quelles ont été mes **inspirations** pour mon intérêt dans le monde de l'agi
 - <a href="https://www.danpink.com/resources/" target="_danpink">Daniel Pink</a> (la vérité sur ce qui nous motive)
 - <a href="http://www.andwhatif.fr/" target="_dragos">Dragos Dreptate</a> (impact mapping et organisation d'événements)
 - <a href="https://github.com/egaillot" target="_emmanuelgaillot">Emmanuel Gaillot</a> (open space, introspection et méditation)
+- <a href="http://www.oddes-pyxis.com/eric-seguier/" target="_ericseguier">Eric Séguier</a> (gestion des polarités, coaching intégral)
 - <a href="https://liberteetcie.com/" target="_isaacgetz">Isaac Getz</a> (management 3.0 et confiance)
 - <a href="http://www.malarewicz.fr/" target="_jamalarew">Jacques Antoine Malarewicz</a> (approche systémique)
 - <a href="https://medium.com/@johnpcutler" target="_dragos">John Cutler</a> (produit et savoir faire des paris)
