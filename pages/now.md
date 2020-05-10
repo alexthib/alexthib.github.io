@@ -47,8 +47,8 @@ permalink: /now/
   
 <h2>Je lis</h2>  
   
-<a href="https://www.ibramxkendi.com/how-to-be-an-antiracist-1" target="nowbook1">  
-	How To Be An Antiracist (Ibram X. Kendi)
+<a href="https://www.seuil.com/ouvrage/anthropologie-economique-pierre-bourdieu/9782021375961" target="nowbook1">  
+	Anthropologie économique - Cours au Collège de France 1992-1993 (Pierre Bolurdieu)
 </a>  
 
 <a href="https://www.babelio.com/livres/Jackson-Un-coach-onze-titres-NBA/677447" target="nowbook2">Un coach, onze titres NBA (Phil Jackson)</a>  
@@ -57,8 +57,8 @@ permalink: /now/
 	What Does it Sound Like When You Change Your Mind? (Seth Godin)
 </a>  
   
-<a href="https://livre.fnac.com/a9630212/Paula-Hawkins-La-Fille-du-train" target="nowbook5">
-	La fille du train (Paula Hawkins)
+<a href="https://www.babelio.com/livres/Neville-Le-Huit/15043" target="nowbook5">
+	Le huit (Katherine Neville)
 </a>  
 
 <a href="https://www.cultura.com/bilingue-francais-italien-dix-auteurs-classiques-italiens-dieci-autori-italiani-classici-tea-9782823821383.html" target="nowbook6">
