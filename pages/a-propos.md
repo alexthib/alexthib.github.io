@@ -94,8 +94,13 @@ Lorsqu’on arrive dans un nouveau contexte client, détecter le plus vite possi
 
 <a href="/manger/monde">
   Ma liste de restaurants dans le reste du monde
-</a>
-
+</a>  
+  
+<a href="https://open.spotify.com/user/alexthib"
+  target="_spotify">
+  Playlists Spotify
+</a>  
+  
 <a href="https://twitter.com/share?ref_src={{site.url}}{{page.url}}" 
    class="twitter-share-button" 
    data-show-count="false">

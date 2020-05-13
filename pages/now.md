@@ -45,6 +45,11 @@ permalink: /now/
 	Je suis un parcours Immunity To Change avec Trémeur, copain du réseau Pyxis
 </a>  
   
+<a href="https://open.spotify.com/user/alexthib"
+  target="_spotify">
+	Je mets à jours mes playlists sur Spotify
+</a>  
+  
 <h2>Je lis</h2>  
   
 <a href="https://www.seuil.com/ouvrage/anthropologie-economique-pierre-bourdieu/9782021375961" target="nowbook1">  
