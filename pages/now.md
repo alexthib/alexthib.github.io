@@ -52,21 +52,38 @@ permalink: /now/
   
 <h2>Je lis</h2>  
   
-<a href="https://www.seuil.com/ouvrage/anthropologie-economique-pierre-bourdieu/9782021375961" target="nowbook1">  
-	Anthropologie économique - Cours au Collège de France 1992-1993 (Pierre Bolurdieu)
+<a href="https://www.goodreads.com/user/show/114895448-alexandre-thibault"
+  target="_goodreads">
+	Je mets à jours ma bibliothèque physique et virtuelle sur GoodReads  
 </a>  
 
-<a href="https://www.babelio.com/livres/Jackson-Un-coach-onze-titres-NBA/677447" target="nowbook2">Un coach, onze titres NBA (Phil Jackson)</a>  
+<a href="https://www.goodreads.com/book/show/53453588-la-performance-motionnelle---une-nouvelle-proposition-cologique" 
+	target="nowbook1">  
+	La performance émotionnelle - Une nouvelle proposition écologique (Karine Conxicoeur)  
+</a>  
+
+<a href="https://www.goodreads.com/book/show/204687.Spiral_Dynamics" 
+	target="nowbook2">
+	Spiral Dynamics: Mastering Values, Leadership and Change (Don Edward Beck, Christopher C. Cowan)
+</a>  
   
-<a href="https://www.goodreads.com/book/show/31750503-what-does-it-sound-like-when-you-change-your-mind" target="nowbook4">
+<a href="https://www.goodreads.com/book/show/31750503-what-does-it-sound-like-when-you-change-your-mind" 
+	target="nowbook3">
 	What Does it Sound Like When You Change Your Mind? (Seth Godin)
 </a>  
   
-<a href="https://www.babelio.com/livres/Neville-Le-Huit/15043" target="nowbook5">
+<a href="https://www.babelio.com/livres/Neville-Le-Huit/15043" 
+	target="nowbook4">
 	Le huit (Katherine Neville)
 </a>  
-
-<a href="https://www.cultura.com/bilingue-francais-italien-dix-auteurs-classiques-italiens-dieci-autori-italiani-classici-tea-9782823821383.html" target="nowbook6">
+  
+<a href="https://www.cultura.com/bilingue-francais-italien-dix-auteurs-classiques-italiens-dieci-autori-italiani-classici-tea-9782823821383.html" 
+	target="nowbook5">
+	Bilingue français-italien : Dix auteurs classiques italiens - Dieci autori italiani classici (Dante ALIGHIERI, Ludovico Ariosto, Torquato Tasso, Giovanni PETRARCA)
+</a>  
+  
+<a href="https://www.amazon.fr/Chants-lybres-Plume-Latraverse/dp/2890055981" 
+	target="nowbook6">
 	Bilingue français-italien : Dix auteurs classiques italiens - Dieci autori italiani classici (Dante ALIGHIERI, Ludovico Ariosto, Torquato Tasso, Giovanni PETRARCA)
 </a>  
   
@@ -76,3 +93,4 @@ permalink: /now/
 	Tweet
 </a>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>  
+  
