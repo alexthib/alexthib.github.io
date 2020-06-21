@@ -15,13 +15,19 @@ ___
   
 **Montréal**  
   
+<a href="https://www.tripadvisor.com/Restaurant_Review-g155032-d8507128-Reviews-Amelia_s_Pizza-Montreal_Quebec.html">Amelio's</a> - Pizzeria dans le ghetto McGill    
+201 Milton, Montréal, Québec, H2X 1V5 - +1 514-845-8396   
+  
 <a href="http://www.juni.ca/">Jun I</a> - Sushi - pas donné, mais une expérience culinaire qui vaut le coup  
 156 avenue Laurier Ouest, Montréal, Québec, H2T 2N7 - +1 514-847-2222  
     
 <a href="http://www.facebook.com/pages/category/Cantonese-Restaurant/La-Maison-De-Mademoiselle-Dumpling-859654860819045/">La maison de Mademoiselle dumpling</a> - dumplings chinois, petit buibuis et épicerie asiatique  
 6381 Rue St-Hubert, Montréal, QC H2S 2L9, Canada - +1 438-800-6666  
   
-<a href="http://lelendemaindveille.com/">Le lendemain d'veille</a> Petits déjeuners à la québécoise  
+<a href="https://www.restomontreal.ca/resto/l-etoile-tunis-laval/1103/fr/">L'étoile de Tunis</a> - spécialités couscous, grillades, fruits de mer  
+6701 Châteaubriand, Montréal, QC H2S 2N9, Canada - +1 514-276-5518    
+  
+<a href="http://lelendemaindveille.com/">Le lendemain d'veille</a> - Petits déjeuners à la québécoise  
 7467 Rue St-Hubert, Montréal, QC H2R 2N5, Canada - +1 514-271-8484  
   
 <a href="https://www.tripadvisor.com/Restaurant_Review-g155032-d895039-Reviews-Little_Sheep_Mongolian_Hot_Pot-Montreal_Quebec.html">Little Sheep Hot Pot</a> - Fondue Mongole - Buffet à volonté (Bouillon très épicé ou pas du tout, selon la tolérance...)  
@@ -54,7 +60,13 @@ ___
 <a href="http://www.clocherpenche.ca/">Le clocher penché</a> - bistrot    
 203 Saint-Joseph Est, Québec (Québec) G1K 3B1 - 1-418-640-0597   
   
+<a href="https://www.tripadvisor.fr/Restaurant_Review-g155033-d967770-Reviews-Restaurant_Metropolitain-Quebec_City_Quebec.html">Metropolitain</a> - sushi  
+1188 avenue Cartier, Quebec, Quebec, G1R 2S6 - 1-418-649-1096  
   
+<a href="https://www.tripadvisor.com/Restaurant_Review-g155033-d706982-Reviews-Restaurant_Momento-Quebec_City_Quebec.html">Momento</a> - ristorante italiano  
+2480 Ch Ste-Foy, Quebec, Quebec, G1V 1T6 - 1-418-652-2480  
+  
+
 **Tadoussac**  
   
 <a href="http://www.hotelgeorges.com/">Hôtel-Restaurant-George</a> - Fruit de mer et produits de la région  
