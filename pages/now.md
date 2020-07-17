@@ -24,10 +24,6 @@ permalink: /now/
 <a href="http://www.oddes-pyxis.com/alexandre-thibault/" target="_now_work">
 	Je travaille chez ODDES à Paris
 </a>  
--   
-<a href="http://www.weopenspace.com" target="_now_wos">
-	J'organise des open space chez Agorapulse un samedi par mois !
-</a>
 - 
 <a href="https://www.meetup.com/fr-FR/Evoluer-dans-un-monde-complexe/" target="_now_complexe">
 	Je coanime le meetup 'Evoluer dans un monde complexe' avec mon collègue Christian !
@@ -42,10 +38,6 @@ permalink: /now/
 <a href="https://twitter.com/AgileConfit" target="_agileconfit">
 	Je dessine un comic strip que j'ai appelé Agile Confit, et je partage le tout sur Twitter
 </a>
--   
-<a href="https://cchange.no/resources/immunity-to-change/" target="_itc">
-	Je suis un parcours Immunity To Change avec Trémeur, copain du réseau Pyxis
-</a>  
 -   
 <a href="https://open.spotify.com/user/alexthib"
   target="_spotify">
