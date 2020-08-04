@@ -690,6 +690,11 @@ Bistr'OK
 </a> - Cuisine française  
 10 Rue Gallieni, 92100 Boulogne-Billancourt - 01 46 08 34 85  
   
+<a href="http://www.pizzabovinelli.fr/">
+Bovinelli
+</a> - Pizzeria  
+61 Rue de Bitche, 92400 Courbevoie - 01 43 33 77 58   
+  
 <a href="http://www.tripadvisor.fr/Restaurant_Review-g196560-d952675-Reviews-La_Peonia-Boulogne_Billancourt_Hauts_de_Seine_Ile_de_France.html">
 Caffè Peonia
 </a> - Cuisine Italienne  
