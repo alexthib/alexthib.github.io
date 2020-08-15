@@ -438,12 +438,21 @@ Yün Bistrot
 <a href="http://mmmm.free.fr/scripts/script_detail_resto.php?id=2320">Chez Paul</a> - Très bon steak tartare  
 13, rue de Charonne - 75011 - 01.47.00.34.57  
   
-<a href="http://www.damenationparis.com/">Dame Nation</a> - Bistrot  
+<a href="http://www.damenationparis.com/">
+Dame Nation
+</a> - Bistrot  
 2 Rue Guénot, 75011 - 01 43 70 63 24  
   
-<a href="https://www.facebook.com/La-Trottinette-1396648437255570/">La Trottinette</a> - Italien de Sicile  
+<a href="https://www.facebook.com/La-Trottinette-1396648437255570/">
+La Trottinette
+</a> - Italien de Sicile  
 23 Rue de la Fontaine au Roi - 75011 - 07 60 91 93 51  
 
+<a href="https://www.laia-restaurant.com">
+Laïa
+</a> - Carte courte, cuisine ouverte, terrasse cour intérieure  
+226 Boulevard Voltaire, 75011 Paris - 75011 - 09 75 65 27 21  
+  
 <a href="https://www.tripadvisor.com/Restaurant_Review-g187147-d719527-Reviews-Le_Galopin_de_LuLu-Paris_Ile_de_France.html">Le Galopin de LULU</a>  - Gastronomie traditionnelle française  
 24, rue des taillandiers - 75011 - 01.47.00.45.35  
   
