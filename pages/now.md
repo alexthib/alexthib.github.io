@@ -26,6 +26,10 @@ permalink: /now/
 <a href="https://www.linkedin.com/in/alexthib?locale=fr_FR&trk=profile_view_lang_sel_click" target="now_linkedin">
  ... voici mon LinkedIn
 </a>  
+- 
+<a href="https://oddes-pyxis.teachable.com/p/renforcez-la-maitrise-de-votre-role-de-scrummaster-product-owner-manager-agile-ou-coach-agile" target="_now_teachable">
+ ... j'offre du mentorat agile pour Product Owner, Scrum Master, Coach agile et Manager agile
+</a>  
   
 <h2>Je lis...</h2>
 <br/>
