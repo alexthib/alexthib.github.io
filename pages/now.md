@@ -20,14 +20,14 @@ permalink: /now/
   
 - 
 <a href="http://www.oddes-pyxis.com/alexandre-thibault/" target="_now_work">
-	... chez ODDES Conseil /membre du réseau Pyxis à Paris
+	... chez Alento à Paris (boîte que j'ai co-fondé avec ma femme Souad)
 </a>  
 - 
 <a href="https://www.linkedin.com/in/alexthib?locale=fr_FR&trk=profile_view_lang_sel_click" target="now_linkedin">
  ... voici mon LinkedIn
 </a>  
 - 
-<a href="https://oddes-pyxis.teachable.com/p/renforcez-la-maitrise-de-votre-role-de-scrummaster-product-owner-manager-agile-ou-coach-agile" target="_now_teachable">
+<a href="https://calendly.com/alexandrethibault/session-coaching-agile" target="_now_slow">
  ... j'offre du mentorat agile pour Product Owner, Scrum Master, Coach agile et Manager agile
 </a>  
   
