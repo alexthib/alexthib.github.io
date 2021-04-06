@@ -19,7 +19,7 @@ permalink: /now/
 <h2>Je travaille...</h2>   
   
 - 
-<a href="http://www.oddes-pyxis.com/alexandre-thibault/" target="_now_work">
+<a href="https://www.alento.fr" target="_now_work">
 	... chez Alento à Paris (boîte que j'ai co-fondé avec ma femme Souad)
 </a>  
 - 
