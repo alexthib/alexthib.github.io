@@ -343,10 +343,10 @@ Peco Peco
 </a> - tapas japonais  
 47 Rue Jean-Baptiste Pigalle, 75009 - 01 53 16 19 84  
   
-<a href="http://www.trattoriaspaccanapoli.com/">
-Spaccanapoli
-</a> - Ristorante Italiano di Qualità  
-46B rue de Clichy - 75009 - 01 42 82 02 47  
+<a href="https://www.tripadvisor.fr/LocationPhotoDirectLink-g187147-d7695221-i382936615-Puce-Paris_Ile_de_France.html">
+Puce
+</a> - Bar à grignoter (fusion France, Indonésie, ...) 
+1 rue Chaptal, 75009 Paris - 09 53 48 29 75   
   
   
 **10e arrondissement**  
