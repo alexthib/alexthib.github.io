@@ -32,9 +32,6 @@ Disponible sur une google map : <a href="https://www.google.com/maps/d/u/0/viewe
 <a href="http://www.kunitoraya.com/">Kunitoraya</a> - nouilles et riz japonnais  
 1, rue Villedo - 75001 - 01.47.03.33.65  
   
-<a href="http://www.machiavel.paris/">Machiavel</a> - Italien assez classe, cuisine ouverte  
-39 Rue de l'Arbre Sec, 75001 - 01 42 36 50 05  
-  
 <a href="http://www.pouletterestaurant.com/">Poulette</a> - cuisine fine française  
 3, rue Etienne Marcel - 75001 - 09.53.62.89.17  
   
@@ -344,7 +341,7 @@ Peco Peco
 47 Rue Jean-Baptiste Pigalle, 75009 - 01 53 16 19 84  
   
 <a href="https://www.tripadvisor.fr/LocationPhotoDirectLink-g187147-d7695221-i382936615-Puce-Paris_Ile_de_France.html">
-Puce
+Puce  
 </a> - Bar à grignoter (fusion France, Indonésie, ...) 
 1 rue Chaptal, 75009 Paris - 09 53 48 29 75   
   
@@ -641,9 +638,6 @@ Laïa
   
 <a href="http://www.tripadvisor.fr/Restaurant_Review-g187147-d1771557-Reviews-Le_Coryllis-Paris_Ile_de_France.html">Le Coryllis</a> - restaurant italien  
 85 rue des Martyrs - 75018 - 01.42.23.05.69  
-  
-<a href="http://www.tripadvisor.fr/Restaurant_Review-g187147-d7218170-Reviews-Les_Perches_du_Chai-Paris_Ile_de_France.html">Les Perchés du Chai</a>  - restaurant Tapas Gastronomiques  
-6 rue Lamarck - 75018 - 01.46.06.18.25  
   
 <a href="http://www.caratello.fr/">Picolo Caratello</a> - Italien  
 8 Rue Audran, 75018 - 01 42 52 17 54  
