@@ -6,15 +6,7 @@ permalink: /podcasts/
 
 <img src="/images/podcasts.jpg" class="img-floating-left-small"/>
 
-Le monde des podcasts en est un que je creuse en continu depuis plusieurs années. 
-
-Il s'agit d'une source d'idées et de sujets de discussions. 
-
-J'utilise une application qui me permet de suivre plusieurs podcasts inspirants. 
-
-Avec certains amis comme Vincent ou Christian, et sur la communauté <a href="/slack/">slack enjoy agile</a>, on échange aussi de nouvelles sources. C'est très très riche.
-
-En voici plusieurs que je vous recommande chaudement !
+Le monde des podcasts en est un qu'on creuse en continu depuis plusieurs années.  Il s'agit d'une source d'idées et de sujets de discussions. En voici plusieurs qu'on vous recommande chaudement !
 
 - <a href="https://www.akimbo.me/" target="_akimbo">Akimbo</a> (Seth Godin : in english)
 - <a href="https://www.cafe-craft.fr/" target="_cafecraft">Café Craft</a> (Thomas Wickam)

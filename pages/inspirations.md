@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Alexandre Thibault - Mes inspirations et références
+title: Nos inspirations et références
 permalink: /inspirations/
 ---
-Quelles ont été mes **inspirations** pour mon intérêt dans le monde de l'agilité, de la valeur métier produite, de la posture managériale et des dynamiques de groupe ? Voici une liste non exhaustive, mais déjà fournie.  
+Quelles ont été les **inspirations** dans le monde de l'agilité, de la valeur métier produite, de la posture managériale et des dynamiques de groupe ? Voici une liste non exhaustive, mais déjà fournie.  
   
-<a href="/inspirations-livres/">L'ensemble des livres que j'ai lus ! (Goodreads)</a>  
+<a href="/inspirations-livres/">L'ensemble des livres qu'Alexandre a lu ! (Goodreads)</a>  
     
-**Quelques bouquins que je recommande (non exhaustif)**  
+**Quelques bouquins qu'on recommande (non exhaustif)**  
   
 - [Agile Retrospectives - Making Good Teams Great](https://www.amazon.fr/gp/product/0977616649/) (Esther Derby)
 - [Change Your Questions, Change Your Life: 12 Powerful Tools for Leadership, Coaching, and Life](https://www.amazon.fr/Change-Your-Questions-Life-Leadership/dp/162656633X) (Marilee Adams Ph.D.)
@@ -30,7 +30,7 @@ Quelles ont été mes **inspirations** pour mon intérêt dans le monde de l'agi
   
 <a href="http://agilemanifesto.org/iso/fr/manifesto.html" target="_manifesteagile">Manifeste Agile</a>
 
-**Personnes qui m'inspirent et leur blog**
+**Personnes qui sont inspirants avec leur blog**
 
 - <a href="https://medium.com/@alexandre.martinez" target="_alf">Alexandre Martinez</a> (Coaching perso, Wardley Maps)
 - <a href="http://www.oddes-pyxis.com/author/christian-lapointe/" target="_christian">Christian Lapointe</a> (Ecoute active, Panarchy)
@@ -46,7 +46,7 @@ Quelles ont été mes **inspirations** pour mon intérêt dans le monde de l'agi
 - <a href="https://seths.blog/" target="_seth">Seth Godin</a> (marketing et raconter des histoires)
 - <a href="https://medium.com/@ygrenzinger" target="_yannickg">Yannick Grenzinger</a> (palo alto et paradoxes)
 
-**Podcasts que j'écoute régulièrement**
+**Podcasts écoutés régulièrement**
 
 <a href="/podcasts/">Podcasts, ou baladodiffusion pour les Québécois</a>  
 
@@ -59,7 +59,7 @@ Quelles ont été mes **inspirations** pour mon intérêt dans le monde de l'agi
 - <a href="https://vimeo.com/157173877" target="_managing-for-happiness">Managing for Happiness</a>  
   
   
-**Ma référence personnelle**  
+**La référence personnelle d'Alexandre**  
   
 <a href="https://drive.google.com/open?id=0BxfOA1uWnfpyQktvR0hYRnFLakU" target="_googledrivealex">Rendez-vous sur Google Drive pour plus d'inspirations (ça vous prend un compte Google cependant)</a>  
 

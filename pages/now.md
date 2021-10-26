@@ -13,9 +13,12 @@ permalink: /now/
 <h2>Je vis...</h2>  
 - 
 <a href="/manger/paris">
-	... en région parisienne et j'adore les restaurants
-</a>
-
+	... officiellement en région parisienne et j'adore les restaurants !
+  - 
+<a href="https://www.google.com/maps/d/u/0/edit?mid=15InZ09intG4Cgb-9h4H9EP8RJiyH_uCV&usp=sharing" target="_now_nomade">
+ ... Mais depuis octobre 2021, nous sommes devenus des nomades avec ma femme. Pour savoir où nous sommes rendus sur cette planète !
+</a>  
+  
 <h2>Je travaille...</h2>   
   
 - 
@@ -65,7 +68,7 @@ permalink: /now/
   
 -   
 <a href="https://podcast.ausha.co/les-discussions-de-oddes" target="_podcast_oddes">
-  ... à monter des podcasts comme Les discussions de Oddes
+  ... à monter et participer à des podcasts comme Les discussions de Oddes
 </a>   
 <iframe frameborder="0" loading="lazy" id="ausha-ZRgi" height="420" style="border: none; width:100%; height:420px" src="https://player.ausha.co/index.html?playlistSlug=alexandre-thibault-les-discussions-de-oddes&playlist=true&color=%23e93918&display=horizontal&v=3&playerId=ausha-ZRgi"></iframe><script src="https://player.ausha.co/ausha-player.js"></script>  
   
