@@ -35,7 +35,6 @@ Quelles ont été les **inspirations** dans le monde de l'agilité, de la valeur
 - <a href="https://medium.com/@alexandre.martinez" target="_alf">Alexandre Martinez</a> (Coaching perso, Wardley Maps)
 - <a href="http://www.oddes-pyxis.com/author/christian-lapointe/" target="_christian">Christian Lapointe</a> (Ecoute active, Panarchy)
 - <a href="https://www.danpink.com/resources/" target="_danpink">Daniel Pink</a> (la vérité sur ce qui nous motive)
-- <a href="http://www.andwhatif.fr/" target="_dragos">Dragos Dreptate</a> (impact mapping et organisation d'événements)
 - <a href="https://github.com/egaillot" target="_emmanuelgaillot">Emmanuel Gaillot</a> (open space, introspection et méditation)
 - <a href="http://www.oddes-pyxis.com/eric-seguier/" target="_ericseguier">Eric Séguier</a> (gestion des polarités, coaching intégral)
 - <a href="https://liberteetcie.com/" target="_isaacgetz">Isaac Getz</a> (management 3.0 et confiance)
