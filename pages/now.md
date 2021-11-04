@@ -20,16 +20,21 @@ permalink: /now/
   
 - 
 <a href="https://www.alento.fr" target="_now_work">
-	... chez Alento à Paris (boîte que j'ai co-fondé avec ma femme Souad)
+	... chez Alento à Paris, boîte fondée par ma femme Souad
 </a>  
 - 
 <a href="https://www.linkedin.com/in/alexthib?locale=fr_FR&trk=profile_view_lang_sel_click" target="now_linkedin">
  ... voici mon LinkedIn
 </a>  
 - 
-<a href="https://calendly.com/alexandrethibault/session-coaching-agile" target="_now_slow">
+<a href="https://www.alento.fr/offres/slow" target="_now_slow">
  ... j'offre du mentorat agile pour Product Owner, Scrum Master, Coach agile et Manager agile
 </a>  
+- 
+<a href="https://www.alento.fr/offres/jam" target="_now_jam">
+ ... et des séminaires pour entreprises et grandes équipes qu'on a appelé JAM
+</a>  
+
   
 <h2>Je lis...</h2>
 <br/>
