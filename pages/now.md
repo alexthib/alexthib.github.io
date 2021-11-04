@@ -12,11 +12,8 @@ permalink: /now/
 <br/>
 <h2>Je vis...</h2>  
 - 
-<a href="/manger/paris">
-	... officiellement en région parisienne et j'adore les restaurants !
-  - 
 <a href="https://www.google.com/maps/d/u/0/edit?mid=15InZ09intG4Cgb-9h4H9EP8RJiyH_uCV&usp=sharing" target="_now_nomade">
- ... Mais depuis octobre 2021, nous sommes devenus des nomades avec ma femme. Pour savoir où nous sommes rendus sur cette planète !
+ ... depuis octobre 2021, nous sommes devenus des nomades avec ma femme. Pour savoir où nous sommes rendus sur cette planète !
 </a>  
   
 <h2>Je travaille...</h2>   
@@ -65,12 +62,6 @@ permalink: /now/
 	... à mettre à jours mes playlists sur Spotify. Voici par exemple, ma playlist World : 
 </a>   
 <iframe src="https://open.spotify.com/embed/playlist/5Gsi0s5DdboV5PGKwxrbQg" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>  
-  
--   
-<a href="https://podcast.ausha.co/les-discussions-de-oddes" target="_podcast_oddes">
-  ... à monter et participer à des podcasts comme Les discussions de Oddes
-</a>   
-<iframe frameborder="0" loading="lazy" id="ausha-ZRgi" height="420" style="border: none; width:100%; height:420px" src="https://player.ausha.co/index.html?playlistSlug=alexandre-thibault-les-discussions-de-oddes&playlist=true&color=%23e93918&display=horizontal&v=3&playerId=ausha-ZRgi"></iframe><script src="https://player.ausha.co/ausha-player.js"></script>  
   
 <script src="https://www.goodreads.com/review/custom_widget/114895448.En%20cours%20de%20lecture?cover_position=left&cover_size=small&num_books=10&order=a&shelf=currently-reading&show_author=1&show_cover=1&show_rating=0&show_review=0&show_tags=0&show_title=1&sort=date_added&widget_bg_color=FFFFFF&widget_bg_transparent=&widget_border_width=1&widget_id=1591289498&widget_text_color=000000&widget_title_size=medium&widget_width=medium" type="text/javascript" charset="utf-8"></script>
   
