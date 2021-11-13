@@ -1,7 +1,7 @@
 # alexthib.github.io
 enjoy agile blog
-pour nous rejoindre sur slack, m'envoyer un message perso sur LinkedIn :
+pour nous rejoindre sur slack, cliquez sur ce lien :
 
-<a href="https://www.linkedin.com/in/alexthib?locale=fr_FR&trk=profile_view_lang_sel_click" 
-             target="linkedin">
-               LinkedIn</a>.
+<a href="https://join.slack.com/t/enjoyagile/shared_invite/zt-y24vmh1u-ZYk81ZQshAZWuwN_C4VqVg" 
+             target="slackenjoyagilesignin">
+               Communauté Slack Enjoy Agile</a>.
