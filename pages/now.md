@@ -27,12 +27,8 @@ permalink: /now/
  ... voici mon LinkedIn
 </a>  
 - 
-<a href="https://www.alento.fr/offres/slow" target="_now_slow">
- ... j'offre du mentorat agile pour Product Owner, Scrum Master, Coach agile et Manager agile
-</a>  
-- 
 <a href="https://www.alento.fr/offres/jam" target="_now_jam">
- ... et des séminaires pour entreprises et grandes équipes qu'on a appelé JAM
+ ... j'offre des séminaires pour entreprises et grandes équipes qu'on a appelé JAM
 </a>  
 
   
