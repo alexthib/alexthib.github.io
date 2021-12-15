@@ -5,7 +5,7 @@ permalink: /a-propos/
 ---
   
 <p>
-    <a href="https://www.enjoyagile.com">Description sur la page d'accueil d'enjoy agile</a>. 
+    <a href="https://alexthib.github.io/">Description sur la page d'accueil d'enjoy agile</a>. 
 </p>   
   
 

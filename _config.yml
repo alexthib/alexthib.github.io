@@ -17,7 +17,7 @@ title: Enjoy Agile
 email: alexthib@yahoo.com
 description: > 
   Communauté sur Slack reliée autour des sujets de l'agilité, scrum, kanban, management 3.0, les environnements avec membres d'équipes engagés.
-url: "http://enjoyagile.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://alexthib.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 ############################### Handling Reading
 encoding: UTF-8
