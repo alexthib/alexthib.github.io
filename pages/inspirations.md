@@ -57,10 +57,6 @@ Quelles ont été les **inspirations** dans le monde de l'agilité, de la valeur
 - <a href="https://www.ted.com/talks/margaret_heffernan_why_it_s_time_to_forget_the_pecking_order_at_work" target="_socialcapital">Social Capital</a>
 - <a href="https://vimeo.com/157173877" target="_managing-for-happiness">Managing for Happiness</a>  
   
-  
-**La référence personnelle d'Alexandre**  
-  
-<a href="https://drive.google.com/open?id=0BxfOA1uWnfpyQktvR0hYRnFLakU" target="_googledrivealex">Rendez-vous sur Google Drive pour plus d'inspirations (ça vous prend un compte Google cependant)</a>  
 
 <a href="https://twitter.com/share?ref_src={{site.url}}{{page.url}}" 
    class="twitter-share-button" 
